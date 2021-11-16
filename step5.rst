@@ -12,18 +12,13 @@ Data Management II
 
     .. admonition:: learning-objectives
 
-       - Understand the basic capabilities of the Data Store
        - Know how to configure Cyberduck
-       - Be able to upload a dataset using the Discovery Environment or
-         Cyberduck
-       - Be able to apply metadata to a datasets
-       - Be able to search for a dataset
+       - Understand how Cyberduck works
+       - Be able to upload a dataset using Cyberduck
 
 
 **Description:**
-
-In this module we will try to discuss the basic capabilities of the Data Store particularly how you can upload your dataset.
-
+In this module we will try to discuss the basic capabilities of the Data Store particularly how you can upload and download your dataset. This is done using Cyberduck, a 3rd party software that connects the Cyverse Data store to your local computer. This enables drag-and-drop download and upload of data from the Datastore to your local computer.
 ----
 
 **Input Data:**
@@ -44,7 +39,10 @@ In this module we will try to discuss the basic capabilities of the Data Store p
 .. 	#### Comment: Step title should be descriptive (i.e. Cleaning Read data) ###
 
 
-1. Follow instructions 1-5 from the |Data Store Guide| to download and configure
+1. Download and install cyberduck https://cyberduck.io/download/ for your operating system.
+
+2. Follow instructions 1-5 from the |Data Store Guide| to download and configure
+
    |Cyberduck|
 
    .. raw:: html
@@ -54,7 +52,7 @@ In this module we will try to discuss the basic capabilities of the Data Store p
            <iframe width="600" height="800" align="center" src="https://learning.cyverse.org/projects/data_store_guide/en/latest/step1.html#download-and-first-time-configuration-of-cyberduck" frameborder="0" style="border: 1px solid black;" allow="encrypted-media; gyroscope; " allowfullscreen></iframe>
            </div>
 
-2. Upload the file **FILENAME.fasta** to your home folder in the Data Store.
+2. Upload the file **DE_sample_plants.fas** AND **README.txt** to your home folder in the Data Store.
 
 
 *Upload data using the Discovery Environment*
@@ -110,48 +108,34 @@ Self Assessment Questions
   .. admonition:: Question
        :class: admonition-question
 
-       Q1. Question
+       Q1. Why do you need Cyberduck?
 
-       A. Choice A
-       B. Choice B
-       C. Choice C
-       D. Choice C
+       A. To conveniently chat with CyVerse support
+       B. To conveniently download and upload files from your local computer
+       C. To conveniently create teams on the Discovery Environment
+       D. To view apps and tools on the Discovery Environment
 
 
        .. admonition:: Answer
 
-          Correct answer is ANSWER
+          Correct answer is B.
 
 
   .. admonition:: Question
        :class: admonition-question
 
-       Q2. Question
+       Q2. Select all that applies: Which of these will you need to configure and access the datastore using Cyberduck
 
-       A. Choice A
-       B. Choice B
-       C. Choice C
-       D. Choice C
-
-
-       .. admonition:: Answer
-
-          Correct answer is ANSWER
-
-  .. admonition:: Question
-       :class: admonition-question
-
-       Q3. Question
-
-       A. Choice A
-       B. Choice B
-       C. Choice C
-       D. Choice C
+       A. SSH access
+       B. CyVerse account
+       C. CyVerse cyberduck connection profile
+       D. Discovery Environment
 
 
        .. admonition:: Answer
 
-          Correct answer is ANSWER
+          Correct answer is B, C.
+
 ----
 
 **Fix or improve this documentation**
