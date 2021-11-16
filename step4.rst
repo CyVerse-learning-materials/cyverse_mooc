@@ -12,13 +12,13 @@ Tour of the Discovery Environment
 
     .. admonition:: learning-objectives
 
-       - Objective 1
-       - Objective 2
-       - Objective n
-
+       - Sign up and log in to the Discovery Environment
+       - Familiarize with the major menu items
+       - Create folder for data and analysis
 
 **Description:**
 
+In this module, we will introduce the web interface of the Discovery Environment. This will be done by navigating through all the major menu items and familiarizing what you can do for each menu. Lastly, we will try to create your own folder for your data and analysis which can be used for your data and subsequent modules.
 ..
 	#### Comment: short text description goes here ####
 
@@ -42,7 +42,7 @@ Tour of the Discovery Environment
 .. 	#### Comment: Step title should be descriptive (i.e. Cleaning Read data) ###
 
 
-1. Log into the CyVerse |Discovery Environment|.
+1. Sign up and log into the CyVerse |Discovery Environment|.
 
 2. Familiarize with platform by hovering and clicking among the different
    options:
@@ -108,48 +108,33 @@ Self Assessment Questions
   .. admonition:: Question
        :class: admonition-question
 
-       Q1. Question
+       Q1. Which of the following is NOT part of the Discovery Environment Menu
 
-       A. Choice A
-       B. Choice B
-       C. Choice C
-       D. Choice C
+       A. Data
+       B. Apps
+       C. Teams
+       D. Videos
 
 
        .. admonition:: Answer
 
-          Correct answer is ANSWER
+          Correct answer is D.
 
 
   .. admonition:: Question
        :class: admonition-question
 
-       Q2. Question
+       Q2. Select all that applies: Which of these can you do on the Discovery Environment
 
-       A. Choice A
-       B. Choice B
-       C. Choice C
-       D. Choice C
-
-
-       .. admonition:: Answer
-
-          Correct answer is ANSWER
-
-  .. admonition:: Question
-       :class: admonition-question
-
-       Q3. Question
-
-       A. Choice A
-       B. Choice B
-       C. Choice C
-       D. Choice C
+       A. Create public and private teams
+       B. Search for data and apps
+       C. Send message to other cyverse users
+       D. Instantiate environments like Jupyter and Rstudio
 
 
        .. admonition:: Answer
 
-          Correct answer is ANSWER
+          Correct answer is A, B, D.
 ----
 
 **Fix or improve this documentation**
