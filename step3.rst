@@ -12,9 +12,10 @@ Data Management I
 
     .. admonition:: learning-objectives
 
-       - Objective 1
-       - Objective 2
-       - Objective n
+       - Describe the components of FAIR data
+       - Describe the Data Lifecycle
+       - Download data from the Data Store
+       - Create a README file and upload it to the Data Store
 
 
 **Description:**
@@ -22,19 +23,10 @@ Data Management I
 ..
 	#### Comment: short text description goes here ####
 
+In this module, we introduce the concepts of FAIR data and the Data Lifecycle and demonstrate how to move data between your computer and the CyVerse Data Store.
+
+
 ----
-
-**Input Data:**
-
-.. list-table::
-    :header-rows: 1
-
-    * - Input
-      - Description
-      - Example
-    * -
-      -
-      -
 
 Downloading data from the Discovery Environment
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -62,9 +54,9 @@ Downloading data from the Discovery Environment
 4. Select **Community Data** and navigate to the folder which will contain our
    example data:
 
-   :download:`/iplant/home/shared/cyverse_training/cyverse_mooc/XXXXXX`
+   `/iplant/home/shared/cyverse_training/cyverse_mooc/muscle_3_8_31/01_muscle_input`
 
-5. Click (Select) the checkbox next to the folder to select that file.
+5. Click (Select) the checkbox next to the `DE_sample_plants.fas` file to select it.
 
 
 6. Click on the **More Actions** button on the upper right and select the
@@ -78,20 +70,26 @@ Downloading data from the Discovery Environment
       failure for very large data sets. Cyberduck or iCommands (discussed below
       and in the |Data Store Guide|) are recommended for these uses.
 
+Uploading a File to the Discovery Environment
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
+1. On your computer, create a file called `README.txt`, and save it in the same place you have the `DE_sample_plants.fas` file.
 
-**Output/Results**
+2. In this file, add several pieces of information about the `DE_sample_plants.fas` file you just downloaded:
 
-.. list-table::
-    :header-rows: 1
+   - Name of file: DE_sample_plants.fas
+   - Type of file: FASTA file containing DNA sequences
+   - Type of organism: plants
 
-    * - Output
-      - Description
-      - Example
-    * -
-      -
-      -
+3. Navigate to your home folder, corresponding to your username, on the Discovery Environment. You can access this from the same dropdown menu where you previously selected **Community Data**.
 
+4. Click the |Add folder icon| (Add Folder Icon) in the top right of the screen to add a new folder to your home directory. Name it `cyverse_mooc_files`.
+
+5. Navigate to this new folder by clicking on it.
+
+6. Click the |Upload icon| (Upload Icon) in the top right of the screen. Then click `Browse Local` to search for files on your computer.
+
+7. Upload both the `DE_sample_plants.fas` file and your newly created `README.txt` file.
 
 ----
 
