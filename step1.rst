@@ -30,9 +30,23 @@ and find more information in the Learning Center.
 
 **Instructions for CyVerse US**
 
+Creating a CyVerse account:
+
+- To create a CyVerse account, you will need a valid email address
+        - We recommend using an institutional address (ending with .edu, .org, or .gov)
+- Go to https://user.cyverse.org/
+- Click the “Sign Up” button and fill out information as prompted
+
+
 
 *Access and Search the CyVerse Learning Account*
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+- Go to https://learning.cyverse.org/en/latest/index.html
+- Explore the menu items on the sidebar
+        - Quick Start Guides will help you with quick, specific tasks
+        - Platform Guides are more in-depth guides of CyVerse’s platforms
+        - Tutorials are start-to-finish lessons on accomplishing certain analyses and tasks using CyVerse
+- To access UK/Austria specific versions of the Learning Center, go to the bottom left corner of the Learning Center home page, and click on the v:latest icon. From here, you can select the version of the documentation from the menu.
 
 
 ----
@@ -43,49 +57,28 @@ Self Assessment Questions
   .. admonition:: Question
        :class: admonition-question
 
-       Q1. Question
+       Q1. What are the recommended email address endings for creating a CyVerse account? 
 
-       A. Choice A
-       B. Choice B
-       C. Choice C
-       D. Choice C
-
+       A. .edu, .org, .gov
+       B. .org, .com, .net
+       C. .edu, .io, .xyz
 
        .. admonition:: Answer
 
-          Correct answer is ANSWER
+          Correct answer is A
 
 
   .. admonition:: Question
        :class: admonition-question
 
-       Q2. Question
+       Q2. Learning Center tutorials are in-depth guides of each of CyVerse’s platforms
 
-       A. Choice A
-       B. Choice B
-       C. Choice C
-       D. Choice C
+       True / False
 
 
        .. admonition:: Answer
 
-          Correct answer is ANSWER
-
-  .. admonition:: Question
-       :class: admonition-question
-
-       Q3. Question
-
-       A. Choice A
-       B. Choice B
-       C. Choice C
-       D. Choice C
-
-
-       .. admonition:: Answer
-
-          Correct answer is ANSWER
-
+          Correct answer is False. Tutorials are start-to-finish lessons on accomplishing certain analyses and tasks, while Platform Guides are in-depth guides of each CyVerse platform.
 
 
 ----
