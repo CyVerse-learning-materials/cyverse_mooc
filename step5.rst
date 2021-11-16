@@ -29,8 +29,8 @@ In this module we will try to discuss the basic capabilities of the Data Store p
     * - Input
       - Description
       - Example
-    * -
-      -
+    * - DE_sample_plants.fas AND README.txt
+      - Sample files downloaded from the previous tutorials
       -
 
 *Upload data with Cyberduck*
@@ -53,35 +53,6 @@ In this module we will try to discuss the basic capabilities of the Data Store p
            </div>
 
 2. Upload the file **DE_sample_plants.fas** AND **README.txt** to your home folder in the Data Store.
-
-
-*Upload data using the Discovery Environment*
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-1. If necessary, log into the CyVerse |Discovery Environment|.
-
-2. Click on the |Data icon| (data icon) to access the Data window in the
-   Discovery Environment.
-
-3.  In the Data window you will see a directory of files and folders in your
-    Data Store. You may select a folder to be the destination for your uploaded
-    file(s). You may also click the Folder button to create a new folder. If
-    you do not select a destination, files will be uploaded by default to your
-    home Data Store folder (i.e., iplant/home/CYVERSE_USERNAME)
-
-4. Click the Upload button to choose your options for importing files into the
-   Discovery Environment:
-
-   - To upload files from your local computer, choose Browse Local; a file
-     browser will open and you may select files to upload (2 GB Max)
-   - To upload files available at a URL, choose Import by URL; You may paste in
-     a valid HTTP or an FTP URL. Then press Import. You may paste additional
-     URLs or close this window by clicking Done.
-
-5. Once you have begun the upload, you will get an automated notification that
-   files have been queued for upload. You may also view the status of an upload
-   or import by going back to the Upload button and choosing View Upload Queue.
-
 
 **Output/Results**
 
