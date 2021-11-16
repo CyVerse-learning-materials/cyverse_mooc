@@ -29,8 +29,8 @@ In this module we will try to discuss the basic capabilities of the Data Store p
     * - Input
       - Description
       - Example
-    * -
-      -
+    * - DE_sample_plants.fas AND README.txt
+      - Sample files downloaded from the previous tutorials
       -
 
 *Upload data with Cyberduck*
