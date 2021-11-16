@@ -7,133 +7,136 @@
 `Learning Center Home <http://learning.cyverse.org/>`_
 
 
-Tour of the Discovery Environment
-----------------------------------
+Data Management I
+-------------------
 
     .. admonition:: learning-objectives
 
-       - Sign up and log in to the Discovery Environment
-       - Familiarize with the major menu items
-       - Create folder for data and analysis
+       - Describe the components of FAIR data
+       - Describe the Data Lifecycle
+       - Download data from the Data Store
+       - Create a README file and upload it to the Data Store
+
 
 **Description:**
 
-In this module, we will introduce the web interface of the Discovery Environment. This will be done by navigating through all the major menu items and familiarizing what you can do for each menu. Lastly, we will try to create your own folder for your data and analysis which can be used for your data and subsequent modules.
 ..
+	#### Comment: short text description goes here ####
+
+In this module, we introduce the concepts of FAIR data and the Data Lifecycle and demonstrate how to move data between your computer and the CyVerse Data Store.
+
 
 ----
 
-**Input Data:**
-
-.. list-table::
-    :header-rows: 1
-
-    * - Input
-      - Description
-      - Example
-    * -
-      -
-      -
-
-*Self-guided Discovery Environment Tour*
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Downloading data from the Discovery Environment
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. 	#### Comment: Step title should be descriptive (i.e. Cleaning Read data) ###
 
 
-1. Sign up and log into the CyVerse |Discovery Environment|.
+1. If necessary, log into the CyVerse |Discovery Environment|.
 
-2. Familiarize with platform by hovering and clicking among the different
-   options:
+2. Click the |Data Icon| (Data Icon) to browse your collection of files in the
+   CyVerse Data Store.
 
-   - a. Use the search bar where you can search for anything in the Data, Apps,
-        and Analyses panels.
+3. In the top left of the page, you should see your username with a dropdown
+   arrow next to it; Click on your username, then click Community Data in the
+   dropdown menu.
 
-   - b. Use the question bar to chat with CyVerse support.
+    .. tip::
 
-   - c. Use the bag feature to organize items you want to download (e.g. like
-        an online shopping cart).
+       This dropdown menu allows you to navigate between your home directory
+       in the Data Store (i.e. your username), and other CyVerse data
+       collections such as files shared with you (i.e. "Shared with Me"), and
+       files shared by the CyVerse community (i.e. "Community Data"). You may
+       also access files located in your "Trash" folder.
 
-   - d. Use notifications to see the history and status of analyses and data
-        sharing, and other transactions.
+4. Select **Community Data** and navigate to the folder which will contain our
+   example data:
 
-3. On the left-hand sidebar, click on the following to see what is available:
+   `/iplant/home/shared/cyverse_training/cyverse_mooc/muscle_3_8_31/01_muscle_input`
 
-   - a. Home - Discovery Environment dashboard
-   - b. Data - Interface to the Datastore including your personal and shared
-        data
-   - c. Apps - Applications
-   - d. Analyses - Status and history of analysis jobs
-   - e. Cloud shell - Quicklaunch of a linux shell
-   - f. Teams - Organize collaborators and sharing
-   - g. Collections - Public collections of applications and data
-   - h. Help - Help and support
-
-4. Go back to the Data menu and familiarize with the options:
-
-   - a. Your home folder
-   - b. "Shared with me" folder
-   - c. "Community Data" folder
-   - d. "Trash"
-
-   .. admonition:: Try it!
-
-      In your home folder create a “raw_data” and a “results” folder
+5. Click (Select) the checkbox next to the `DE_sample_plants.fas` file to select it.
 
 
-**Output/Results**
+6. Click on the **More Actions** button on the upper right and select the
+   **Download** option to download the file to your local computer.
 
-.. list-table::
-    :header-rows: 1
+   .. tip::
 
-    * - Output
-      - Description
-      - Example
-    * -
-      -
-      -
+      We don't recommend downloading many (more than 10) or large (more than
+      2GB) files directly from the Discovery Environment since files transferred
+      in this way will make use of HTML protocols which are slow and subject to
+      failure for very large data sets. Cyberduck or iCommands (discussed below
+      and in the |Data Store Guide|) are recommended for these uses.
 
+Uploading a File to the Discovery Environment
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+1. On your computer, create a file called `README.txt`, and save it in the same place you have the `DE_sample_plants.fas` file.
+
+2. In this file, add several pieces of information about the `DE_sample_plants.fas` file you just downloaded:
+
+   - Name of file: DE_sample_plants.fas
+   - Type of file: FASTA file containing DNA sequences
+   - Type of organism: plants
+
+3. Navigate to your home folder, corresponding to your username, on the Discovery Environment. You can access this from the same dropdown menu where you previously selected **Community Data**.
+
+4. Click the |Add folder icon| (Add Folder Icon) in the top right of the screen to add a new folder to your home directory. Name it `cyverse_mooc_files`.
+
+5. Navigate to this new folder by clicking on it.
+
+6. Click the |Upload icon| (Upload Icon) in the top right of the screen. Then click `Browse Local` to search for files on your computer.
+
+7. Upload both the `DE_sample_plants.fas` file and your newly created `README.txt` file.
 
 ----
-
-**Description of output and results**
-
-----
-
 
 Self Assessment Questions
 ````````````````````````````
 
-  .. admonition:: Question
-       :class: admonition-question
-
-       Q1. Which of the following is NOT part of the Discovery Environment Menu
-
-       A. Data
-       B. Apps
-       C. Teams
-       D. Videos
-
-
-       .. admonition:: Answer
-
-          Correct answer is D.
-
 
   .. admonition:: Question
        :class: admonition-question
 
-       Q2. Select all that applies: Which of these can you do on the Discovery Environment
+       Q1. What do the letters in FAIR refer to?
 
-       A. Create public and private teams
-       B. Search for data and apps
-       C. Send message to other cyverse users
-       D. Instantiate environments like Jupyter and Rstudio
+       A. Fixable, Assessable, Interpretable, Recyclable
+       B. Fast Access In Repetition
+       C. Findable, Accessible, Interoperable, Reusable
+       D. Fixable, Automated, Intersectional, Reducible
 
 
        .. admonition:: Answer
 
-          Correct answer is A, B, D.
+          Correct answer is C
+
+
+  .. admonition:: Question
+       :class: admonition-question
+
+       Q2. True or False, is FAIR data is the same as Open data?
+
+       .. admonition:: Answer
+
+          False
+
+  .. admonition:: Question
+       :class: admonition-question
+
+       Q3. Which of the following are NOT true of the process of making your data FAIR?
+
+       A. It will be the same regardless of discipline
+       B. It may require some technical skills
+       C. It can be easier with CyVerse
+       D. It happens on a continuum, not a binary FAIR/not FAIR
+
+
+       .. admonition:: Answer
+
+          Correct answer is A
+
 ----
 
 **Fix or improve this documentation**

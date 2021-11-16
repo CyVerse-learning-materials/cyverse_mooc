@@ -50,11 +50,11 @@ Who to contact if this guide needs fixing. You can also email
   Tutorial home <self>
   Course Overview <step1.rst>
   CyVerse Background <step2.rst>
-  Data Management I <step3.rst>
-  Tour of the Discovery Environment <step4.rst>
+  Tour of the Discovery Environment <step3.rst>
+  Data Management I <step4.rst>
   Data Management II <step5.rst>
-  Analysis with the Discovery Environment <step6.rst>
-  Data Management III <step7.rst>
+  Data Management III <step6.rst>
+  Analysis with the Discovery Environment <step7.rst>
   Interactive Analyses <step8.rst>
   Conclusion and Advanced Applications <final_step.rst>
 	Delete this example guide page <example_directives_delete.rst>

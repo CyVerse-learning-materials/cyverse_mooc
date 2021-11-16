@@ -7,17 +7,19 @@
 `Learning Center Home <http://learning.cyverse.org/>`_
 
 
-Data Management III
---------------------
+Analysis with the Discovery Environment
+----------------------------------------
 
     .. admonition:: learning-objectives
 
-       - Understand how to apply metadata in the discovery environment interface
-       - Understand how to share data with other CyVerse users
+       - Objective 1
+       - Objective 2
+       - Objective n
 
 **Description:**
 
-In this module, we introduce how to apply metadata in the Discovery Environment and demonstrate how to share data with other CyVerse users.
+..
+	#### Comment: short text description goes here ####
 
 ----
 
@@ -29,43 +31,39 @@ In this module, we introduce how to apply metadata in the Discovery Environment 
     * - Input
       - Description
       - Example
-    * - Tutorial folder containing **DE_sample_plants.fas** and **Readme.txt**
-        created previously.
-      - These are the dataset and metadata readme file created previously
-      - **FIX FIX FIX**
+    * - A fasta file containing DNA sequences to align.
+      - We will use the previously uploaded file from the `Data Management II <step5.html>`_
+        section.
+      - View the example |MUSCLE input folder|.
 
-*Editing Metadata on Single Files in the Discovery Environment*
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+`Learning Center Home <http://learning.cyverse.org/>`_
 
-  1. If necessary, log into the CyVerse |Discovery Environment|.
+*Descriptive Steps*
+~~~~~~~~~~~~~~~~~~~
 
-  2. Click the |Data Icon| (Data Icon) to browse your collection of files in the
-     CyVerse Data Store.
+1. If necessary, log into the CyVerse |Discovery Environment|.
 
-  3. Navigate to the **tutorial_folder** and select (checkbox) the
-     **DE_sample_plants.fas** file uploaded previously.
+2. Click |Apps icon| (Apps icon) from the DE workspace; search for **MUSCLE- 3.8.31**
 
-  4. Under the **More Actions** menu, click on the **`Metadata`** choice.
-     You will see existing metadata for the file/folder in the Attribute,
-     Value, Unit (AVU) format.
+3. Under “Analysis Info”, you can leave the defaults or make any desired notes.
 
-*Adding metadata*
-  1. Click the “+ Add Metadata” button to add a new entry. Then follow the
-     directions for editing metadata below.
+4. Under “Select Input Data” click Browse, then navigate the uploaded file
+   (**DE_sample_plants.fas**); then click OK.
 
-*Editing or deleting metadata*
+5. Under “Sequence Type”, select DNA.
 
-  1. Use the “pencil” icon to edit an existing entry or the “trash can”
-     icon to delete an entry.
+6. Under the optional “Advanced Settings”, leave the default settings. If
+   required, some analyses may be launched with requests for more minimum
+   Resource Requirements, but this may cause those analyses to sit longer in
+   the submission queue until a node matching those minimum requirements
+   becomes available.
 
-  2. After you have made any edits or deletion, click ‘Save’ (on the top right
-     of the screen) to save all entries and apply the metadata.
+7. Click Launch Analysis
+
+8. You will receive a notification and be redirected to the Analyses Listing
+   page.
 
 
-*Apply metadata on multiple files in the Discovery Environment*
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-It is possible to add or edit metadata on multiples files in the Discovery Environment by uploading a spreadsheet with this metadata. The spreadsheet can be designed to follow a metadata format or standard, or contain whatever metadata entries you want associated with a set of files. See the |Metadata documentation in the Data Store Guide| for more details.
 
 
 **Output/Results**
@@ -76,82 +74,61 @@ It is possible to add or edit metadata on multiples files in the Discovery Envir
     * - Output
       - Description
       - Example
-    * - A *DE_sample_plants.fas* file with metadata applied
-      - Metadata associated with a file uploaded to the CyVerse Data Store is
-        now made searchable by the metadata attributes.
-      - FIX FIX FIX FIX
+    * - - A folder of logs
+        - clstalw.aln
+        - fasta.aln
+        - phylip_interleaved.aln
+        - phylip_sequential.aln
+      - The logs folder are log files returned with every Discovery Environment
+        analyses. These can be useful for diagnosing failed analyses. All other
+        files are outputs of the Muscle software and contain multiple sequence
+        alignments in a variety of common formats.
+      - View the example |MUSCLE output folder|.
 
-*Data Sharing in the Discovery Environment*
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-  1. If necessary, log into the CyVerse |Discovery Environment|.
+----
 
-  2. Click the |Data Icon| (Data Icon) to browse your collection of files in the
-     CyVerse Data Store.
+**Description of output and results**
 
-  3. Navigate to the **tutorial_folder** created previously and select
-     (checkbox) the folder. Click the **Share Menu**
-
-  4. In the ‘search for users’ field search for the CyVerse user you wish to
-     share with by searching for their name, or CyVerse username. You may also
-     select ‘Choose from Collaborators’ which will bring up a list of people
-     you have designated as collaborators.
-
-  5. Next, under ‘Permissions’ choose what permission you want to grant the
-     person you are sharing this file with.
-
-     .. tip::
-
-     	  See more on |Sharing Permissions| in the Data Store Guide.
-
-  6. Once you are finished, click Done to begin sharing. The user will be
-     notified that a file has been shared with them.
 
 
 ----
 
 Self Assessment Questions
-````````````````````````````
+`````````````````````````````
 
   .. admonition:: Question
        :class: admonition-question
 
-       Q1. Use the readme file from Data Management I and apply the metadata correctly to your file using the DE.
+       Q1. Which of the following are true about Docker containers?
+
+       A. They share the host OS
+       B. They have process-level isolation.
+       C. They are are heavyweight.
+       D. They have a startup time in the minutes range.
+
+
 
        .. admonition:: Answer
 
-           Click here to see how it should look and compare your results. **FIX FIX FIX FIX**
+          Correct answer is A and B
 
 
   .. admonition:: Question
        :class: admonition-question
 
-       Q2. Which of the following are true about metadata in the CyVerse Data Store?
+       Q2. Which of the following are incorrect about Docker containers?
 
-       A. Are structured in Attribute-Value-Unit in CyVerse
-       B. Contain information about the corresponding data file
-       C. Are discoverable in CyVerse through ElasticSearch
-       D. Contain results of experiments
+       A. Dockerfiles are a recipe for creating Docker images.
+       B. Docker containers are a collection of Dockerfiles.
+       C. Docker images get built by running a Docker command which uses the
+          Dockerfile.
+       D. Docker containers are running instances of a Docker image.
 
-
-       .. admonition:: Answer
-
-          Correct answer is A, B, and C
-
-  .. admonition:: Question
-       :class: admonition-question
-
-       Q3. Select the correct statement: Sharing of research data in CyVerse...
-
-       A. Will be sent to collaboration partners automatically
-       B. Will transfer of ownership to a collaborator
-       C. Enables cross-institutional collaboration
-       D. Ensures that data stays in a single accessible location you control
-          access to.
 
        .. admonition:: Answer
 
-          Correct answer is C, D
+          The incorrect statement is B
 
 ----
 
