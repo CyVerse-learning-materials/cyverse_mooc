@@ -12,9 +12,10 @@ Analysis with the Discovery Environment
 
     .. admonition:: learning-objectives
 
-       - Objective 1
-       - Objective 2
-       - Objective n
+       - Understand the analysis capabilities of the Discovery Environment
+       - Understand how to find an analysis app and how to launch the analysis
+       - Understand how to monitor analysis results
+       - Understand how to access analysis results
 
 **Description:**
 

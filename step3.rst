@@ -23,17 +23,6 @@ In this module, we will introduce the web interface of the Discovery Environment
 
 ----
 
-**Input Data:**
-
-.. list-table::
-    :header-rows: 1
-
-    * - Input
-      - Description
-      - Example
-    * -
-      -
-      -
 
 *Self-guided Discovery Environment Tour*
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -59,15 +48,15 @@ In this module, we will introduce the web interface of the Discovery Environment
 
 3. On the left-hand sidebar, click on the following to see what is available:
 
-     a. Home - Discovery Environment dashboard
-     b. Data - Interface to the Datastore including your personal and shared
+     a. **Home** - Discovery Environment dashboard
+     b. **Data** - Interface to the Datastore including your personal and shared
         data
-     c. Apps - Applications (including VICE interactive applications)
-     d. Analyses - Status and history of analysis jobs
-     e. Cloud shell - Quicklaunch of a Linux shell
-     f. Teams - Organize collaborators and sharing
-     g. Collections - Public collections of applications and data
-     h. Help - Help and support
+     c. **Apps** - Applications (including VICE interactive applications)
+     d. **Analyses** - Status and history of analysis jobs
+     e. **Cloud shell** - Quicklaunch of a Linux shell
+     f. **Teams** - Organize collaborators and sharing
+     g. **Collections** - Public collections of applications and data
+     h. **Help** - Help and support
 
 4. Go back to the Data menu and familiarize with the options:
 
@@ -91,8 +80,8 @@ In this module, we will introduce the web interface of the Discovery Environment
     * -
          - `raw_data` (folder)
          - `results` (folder)
-      - You should have created these two folders, we'll use them in the next
-        steps of this course.
+      - We will cover in detail how to create and share folders in the next \
+        steps of the course. 
 
 ----
 

@@ -56,7 +56,8 @@ Downloading data from the Discovery Environment
 
    `/iplant/home/shared/cyverse_training/cyverse_mooc/muscle_3_8_31/01_muscle_input`
 
-5. Click (Select) the checkbox next to the `DE_sample_plants.fas` file to select it.
+5. Click (Select) the checkbox next to the `DE_sample_plants.fas` file to
+   select it.
 
 
 6. Click on the **More Actions** button on the upper right and select the
@@ -73,23 +74,29 @@ Downloading data from the Discovery Environment
 Uploading a File to the Discovery Environment
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-1. On your computer, create a file called `README.txt`, and save it in the same place you have the `DE_sample_plants.fas` file.
+1. On your computer, use any text editor to create a file called `README.txt`.
+   You may wish to save it in the same place you have the
+   `DE_sample_plants.fas`file (i.e. your Desktop, Downloads, etc.).
 
-2. In this file, add several pieces of information about the `DE_sample_plants.fas` file you just downloaded:
+2. In the README.txt file, add several pieces of information about the
+   `DE_sample_plants.fas` file you just downloaded:
 
-   - Name of file: DE_sample_plants.fas
-   - Type of file: FASTA file containing DNA sequences
-   - Type of organism: plants
+    - Name of file: DE_sample_plants.fas
+    - Type of file: FASTA file containing DNA sequences
+    - Type of organism: plants
 
-3. Navigate to your home folder, corresponding to your username, on the Discovery Environment. You can access this from the same dropdown menu where you previously selected **Community Data**.
+    .. note::
 
-4. Click the |Add folder icon| (Add Folder Icon) in the top right of the screen to add a new folder to your home directory. Name it `cyverse_mooc_files`.
+       Make sure you save this as a plain text file (".txt"), other file
+       formats (e.g. ".docx") may not be rendered in the Discovery Environment.
 
-5. Navigate to this new folder by clicking on it.
 
-6. Click the |Upload icon| (Upload Icon) in the top right of the screen. Then click `Browse Local` to search for files on your computer.
+3. In the Discovery Environment, click the |Data Icon| (Data Icon) to access
+   your home folder; you can access this from the same dropdown menu where you
+   previously selected **Community Data**.
 
-7. Upload both the `DE_sample_plants.fas` file and your newly created `README.txt` file.
+4. Click the |Add folder icon| (Add Folder Icon) in the top right of the screen to add a new folder to your home directory. Name it **tutorial_folder**.
+
 
 ----
 

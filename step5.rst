@@ -29,7 +29,9 @@ In this module we will try to discuss the basic capabilities of the Data Store p
     * - Input
       - Description
       - Example
-    * - DE_sample_plants.fas AND README.txt
+    * -
+        - **DE_sample_plants.fas**
+        - **README.txt**
       - Sample files downloaded from the previous tutorials
       -
 
@@ -52,7 +54,18 @@ In this module we will try to discuss the basic capabilities of the Data Store p
            <iframe width="600" height="800" align="center" src="https://learning.cyverse.org/projects/data_store_guide/en/latest/step1.html#download-and-first-time-configuration-of-cyberduck" frameborder="0" style="border: 1px solid black;" allow="encrypted-media; gyroscope; " allowfullscreen></iframe>
            </div>
 
-2. Upload the file **DE_sample_plants.fas** AND **README.txt** to your home folder in the Data Store.
+
+4. Log into Cyberduck, and locate the **tutorial_folder** in the Cyberduck
+   display of your home directory.
+
+5. Upload the file **DE_sample_plants.fas** AND **README.txt** to the
+  **tutorial_folder**.
+
+6. In the |Discovery Environment|, click the |Data Icon| (Data Icon) to access
+   your home folder.
+
+7. Navigate to your **tutorial_folder** and verify the upload was successful.
+
 
 **Output/Results**
 
@@ -62,9 +75,12 @@ In this module we will try to discuss the basic capabilities of the Data Store p
     * - Output
       - Description
       - Example
-    * -
+    * - **tutorial_folder** containing
+         - `DE_sample_plants.fas`
+         - `README.txt`
       -
       -
+
 
 
 ----

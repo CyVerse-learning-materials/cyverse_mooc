@@ -59,9 +59,9 @@ Self Assessment Questions
 
        Q1. What are the recommended email address endings for creating a CyVerse account?
 
-       A. .edu, .org, .gov
-       B. .org, .com, .net
-       C. .edu, .io, .xyz
+        A. .edu, .org, .gov
+        B. .org, .com, .net
+        C. .edu, .io, .xyz
 
        .. admonition:: Answer
 
