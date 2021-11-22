@@ -4,10 +4,14 @@
 
 .. Comment: Fix this link if you are using a quicklaunch button
 
-.. |CyVerse_launch| image:: ./img/Powered-By-CyVerse-blue.png
-    :width: 125
+.. |CyVerse_launch MUSCLE| image:: ./img/Powered-By-CyVerse-blue.png
+    :width: 140
     :height: 20
-    :target: https://de.cyverse.org/de/  target="_blank"
+    :target: https://de.cyverse.org/apps/de/9b41c9e4-5031-4a49-b1cb-c471335df16e  target="_blank"
+.. |CyVerse_launch MUSCLE| image:: ./img/Powered-By-CyVerse-blue.png
+    :width: 140
+    :height: 20
+    :target: https://de.cyverse.org/apps/de/9b41c9e4-5031-4a49-b1cb-c471335df16e  target="_blank"
 .. |CyVerse_rocker_launch| image:: ./img/Powered-By-CyVerse-blue.png
     :width: 125
     :height: 20
@@ -36,6 +40,14 @@
     :height: 21
 
 
+
+.. |Original App Documentation muscle| raw:: html
+
+   <a href="https://drive5.com/muscle/manual/" target="blank">Original App Documentation muscle</a>
+
+.. |Original App Documentation rocker| raw:: html
+
+   <a href="https://github.com/cyverse-vice/rstudio-verse" target="blank">Original App Documentation rocker</a>
 
 .. |VICE| raw:: html
 

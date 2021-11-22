@@ -129,9 +129,13 @@ Application(s) used
     * - Muscle
       - 3.8.31
       - Multiple sequence aligner
-      -	|CyVerse_launch|
+      -	|CyVerse_launch MUSCLE|
       - |Original App Documentation|
-
+    * - Rocker
+      - Latest
+      - RStudio VICE application
+      -	|CyVerse_rocker_launch|
+      - |Original App Documentation|
 ----
 
 **Fix or improve this documentation**
