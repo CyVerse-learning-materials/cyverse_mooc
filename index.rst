@@ -80,8 +80,9 @@ Downloads, access, and services
     * - CyVerse account
       - You will need a CyVerse account to complete this exercise
       - |CyVerse User Portal|
-    * - Atmosphere access
-      - You must have access to Atmosphere
+    * - VICE access
+      - You must have permission to use Discovery Environment VICE
+        applications, request access on the user portal (under Services)
       - |CyVerse User Portal|
     * - Cyberduck
       - Standalone software for upload/download to Data Store
@@ -130,45 +131,6 @@ Application(s) used
       - Multiple sequence aligner
       -	|CyVerse_launch|
       - |Original App Documentation|
-
-
-**Atmosphere Image(s):**
-
-.. list-table::
-    :header-rows: 1
-
-    * - Image name
-      - Version
-      - Description
-      - Link
-      - Notes/other links
-    * - CyVerse CentOS 6.8 GUI Base
-      - 1.0
-      - base image CentOS 6.8 with GNOME GUI
-      - |CyVerse_launch|
-      -
-
-
-
-Input and example data
-~~~~~~~~~~~~~~~~~~~~~~
-
-*In order to complete this tutorial you will need to have the following inputs prepared*
-
-..
-	#### comment: delete any row not needed in this table ####
-
-.. list-table::
-    :header-rows: 1
-
-    * - Input File(s)
-      - Format
-      - Preparation/Notes
-      - Example Data
-    * -
-      -
-      -
-      -
 
 ----
 

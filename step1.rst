@@ -33,15 +33,15 @@ and find more information in the Learning Center.
 Creating a CyVerse account:
 
 - To create a CyVerse account, you will need a valid email address
-        - We recommend using an institutional address (ending with .edu, .org, or .gov)
-- Go to https://user.cyverse.org/
+   - We recommend using an institutional address (ending with .edu, .org, or .gov)
+- Go to |CyVerse User Portal|
 - Click the “Sign Up” button and fill out information as prompted
 
 
 
 *Access and Search the CyVerse Learning Account*
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-- Go to https://learning.cyverse.org/en/latest/index.html
+- Go to |CyVerse Learning Center|
 - Explore the menu items on the sidebar
         - Quick Start Guides will help you with quick, specific tasks
         - Platform Guides are more in-depth guides of CyVerse’s platforms
@@ -57,7 +57,7 @@ Self Assessment Questions
   .. admonition:: Question
        :class: admonition-question
 
-       Q1. What are the recommended email address endings for creating a CyVerse account? 
+       Q1. What are the recommended email address endings for creating a CyVerse account?
 
        A. .edu, .org, .gov
        B. .org, .com, .net

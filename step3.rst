@@ -46,35 +46,35 @@ In this module, we will introduce the web interface of the Discovery Environment
 2. Familiarize with platform by hovering and clicking among the different
    options:
 
-   - a. Use the search bar where you can search for anything in the Data, Apps,
+     a. Use the search bar where you can search for anything in the Data, Apps,
         and Analyses panels.
 
-   - b. Use the question bar to chat with CyVerse support.
+     b. Use the question bar to chat with CyVerse support.
 
-   - c. Use the bag feature to organize items you want to download (e.g. like
+     c. Use the bag feature to organize items you want to download (e.g. like
         an online shopping cart).
 
-   - d. Use notifications to see the history and status of analyses and data
+     d. Use notifications to see the history and status of analyses and data
         sharing, and other transactions.
 
 3. On the left-hand sidebar, click on the following to see what is available:
 
-   - a. Home - Discovery Environment dashboard
-   - b. Data - Interface to the Datastore including your personal and shared
+     a. Home - Discovery Environment dashboard
+     b. Data - Interface to the Datastore including your personal and shared
         data
-   - c. Apps - Applications
-   - d. Analyses - Status and history of analysis jobs
-   - e. Cloud shell - Quicklaunch of a linux shell
-   - f. Teams - Organize collaborators and sharing
-   - g. Collections - Public collections of applications and data
-   - h. Help - Help and support
+     c. Apps - Applications (including VICE interactive applications)
+     d. Analyses - Status and history of analysis jobs
+     e. Cloud shell - Quicklaunch of a Linux shell
+     f. Teams - Organize collaborators and sharing
+     g. Collections - Public collections of applications and data
+     h. Help - Help and support
 
 4. Go back to the Data menu and familiarize with the options:
 
-   - a. Your home folder
-   - b. "Shared with me" folder
-   - c. "Community Data" folder
-   - d. "Trash"
+     a. Your home folder
+     b. "Shared with me" folder
+     c. "Community Data" folder
+     d. "Trash"
 
    .. admonition:: Try it!
 
@@ -88,15 +88,11 @@ In this module, we will introduce the web interface of the Discovery Environment
 
     * - Output
       - Description
-      - Example
     * -
-      -
-      -
-
-
-----
-
-**Description of output and results**
+         - `raw_data` (folder)
+         - `results` (folder)
+      - You should have created these two folders, we'll use them in the next
+        steps of this course.
 
 ----
 
