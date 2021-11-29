@@ -19,7 +19,6 @@ Tour of the Discovery Environment
 **Description:**
 
 In this module, we will introduce the web interface of the Discovery Environment. This will be done by navigating through all the major menu items and familiarizing what you can do for each menu. Lastly, we will try to create your own folder for your data and analysis which can be used for your data and subsequent modules.
-..
 
 ----
 
