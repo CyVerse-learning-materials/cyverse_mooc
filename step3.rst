@@ -19,7 +19,6 @@ Tour of the Discovery Environment
 **Description:**
 
 In this module, we will introduce the web interface of the Discovery Environment. This will be done by navigating through all the major menu items and familiarizing what you can do for each menu. Lastly, we will try to create your own folder for your data and analysis which can be used for your data and subsequent modules.
-..
 
 ----
 
@@ -67,7 +66,7 @@ In this module, we will introduce the web interface of the Discovery Environment
 
    .. admonition:: Try it!
 
-      In your home folder create a “raw_data” and a “results” folder
+      In your home folder create a "tutorial_folder", “raw_data” and a “results” folder
 
 
 **Output/Results**
@@ -78,6 +77,7 @@ In this module, we will introduce the web interface of the Discovery Environment
     * - Output
       - Description
     * -
+         - **tutorial_folder** (folder)
          - `raw_data` (folder)
          - `results` (folder)
       - We will cover in detail how to create and share folders in the next \

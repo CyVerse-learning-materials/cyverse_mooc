@@ -41,7 +41,7 @@ In this module we will try to discuss the basic capabilities of the Data Store p
 .. 	#### Comment: Step title should be descriptive (i.e. Cleaning Read data) ###
 
 
-1. Download and install cyberduck https://cyberduck.io/download/ for your operating system.
+1. Download and install Cyberduck https://cyberduck.io/download/ for your operating system.
 
 2. Follow instructions 1-5 from the |Data Store Guide| to download and configure
 

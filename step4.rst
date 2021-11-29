@@ -144,6 +144,15 @@ Self Assessment Questions
 
           Correct answer is A
 
+  .. admonition:: Question
+       :class: admonition-question
+
+       Q4. True or false, is adding a README file a quick way to make your data more FAIR?
+
+
+       .. admonition:: Answer
+
+          True
 ----
 
 **Fix or improve this documentation**

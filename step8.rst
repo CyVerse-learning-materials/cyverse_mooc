@@ -102,11 +102,10 @@ accessible from CyVerse US. You must request access to use.
   3. Launch the application and adjust the following:
 
       a. Under "Analysis Info", add comments if desired; click **Next**;
-      b. For "Parameters", under “Input Folder” click **Browse** and navigate to
-
-             `/iplant/home/shared/cyverse_training/cyverse_mooc/muscle_3_8_31/02_muscle_output`
-          we will use this entire folder as input for our project. Click
-          **Select Current Folder**; then **Next**;
+      b. For "Parameters", under “Input Folder” click **Browse** and navigate
+         to the **tutorial_folder** and select the **muscle_output** folder
+         where your Muscle analysis results should be located; click **Select
+         Current Folder**; then **Next**;
        c. Click **Next** to skip Advanced Settings;
        d. Click **Launch Analysis** to launch your application
 

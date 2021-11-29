@@ -44,12 +44,20 @@ Analysis with the Discovery Environment
 
 1. If necessary, log into the CyVerse |Discovery Environment|.
 
-2. Click |Apps icon| (Apps icon) from the DE workspace; search for **MUSCLE- 3.8.31**
+2. Click the |Data Icon| (Data Icon) and navigate to your **tutorial_folder**;
+   click the |Add folder icon| (Add Folder Icon) and create a folder called
+   **muscle_output** inside your tutorial folder.
 
-3. Under “Analysis Info”, you can leave the defaults or make any desired notes.
+2. Click |Apps icon| (Apps icon) from the DE workspace; search for
+   **Muscle-3.8.31**
 
-4. Under “Select Input Data” click Browse, then navigate the uploaded file
-   (**DE_sample_plants.fas**); then click OK.
+3. Under “Analysis Info”, for **Output Folder** click **Browse** and navigate
+   to and select the **muscle_output** created above. No other changes are
+   needed at this step, but you may edit the analysis name or comments
+   (optional).
+
+4. Under “Select Input Data” click Browse, then navigate to the
+   **tutorial_folder** and select (checkbox) the **DE_sample_plants.fas** previously uploaded.
 
 5. Under “Sequence Type”, select DNA.
 
@@ -61,8 +69,11 @@ Analysis with the Discovery Environment
 
 7. Click Launch Analysis
 
-8. You will receive a notification and be redirected to the Analyses Listing
-   page.
+8. You will receive a notification and be redirected to the Analyses page.
+
+9. When Muscle analysis has the status **Completed**, you may click the folder
+   icon next to the analysis name, to navigate to and browse the outputs for
+   this analysis. 
 
 
 
