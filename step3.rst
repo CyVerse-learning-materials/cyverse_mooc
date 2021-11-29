@@ -66,7 +66,7 @@ In this module, we will introduce the web interface of the Discovery Environment
 
    .. admonition:: Try it!
 
-      In your home folder create a “raw_data” and a “results” folder
+      In your home folder create a "tutorial_folder", “raw_data” and a “results” folder
 
 
 **Output/Results**
@@ -77,7 +77,7 @@ In this module, we will introduce the web interface of the Discovery Environment
     * - Output
       - Description
     * -
-         - **`tutorial_folder`** (folder)
+         - **tutorial_folder** (folder)
          - `raw_data` (folder)
          - `results` (folder)
       - We will cover in detail how to create and share folders in the next \
