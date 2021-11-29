@@ -24,6 +24,11 @@ and find more information in the Learning Center.
 
 ----
 
+**Video:**
+
+VIDEO GOES HERE
+
+----
 
 *Create a CyVerse Account*
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
