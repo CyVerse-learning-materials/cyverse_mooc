@@ -73,7 +73,8 @@ Analysis with the Discovery Environment
 
 9. When Muscle analysis has the status **Completed**, you may click the folder
    icon next to the analysis name, to navigate to and browse the outputs for
-   this analysis. 
+   this analysis. You may need to refresh your web browser to see the updated
+   status. 
 
 
 
