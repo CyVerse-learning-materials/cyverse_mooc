@@ -10,11 +10,15 @@
 Data Management II
 ---------------------
 
+    .. admonition:: learning-objectives
+
+       - Know how to configure Cyberduck
+       - Understand how Cyberduck works
+       - Be able to upload a dataset using Cyberduck
+
+
 **Description:**
-
-..
-	#### Comment: short text description goes here ####
-
+In this module we will try to discuss the basic capabilities of the Data Store particularly how you can upload and download your dataset. This is done using Cyberduck, a 3rd party software that connects the Cyverse Data store to your local computer. This enables drag-and-drop download and upload of data from the Datastore to your local computer.
 ----
 
 **Input Data:**
@@ -26,41 +30,42 @@ Data Management II
       - Description
       - Example
     * -
-      -
+        - **DE_sample_plants.fas**
+        - **README.txt**
+      - Sample files downloaded from the previous tutorials
       -
 
-*Descriptive Steps*
-~~~~~~~~~~~~~~~~~~~
+*Upload data with Cyberduck*
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. 	#### Comment: Step title should be descriptive (i.e. Cleaning Read data) ###
 
 
-1. Replace the text below with your own
+1. Download and install Cyberduck https://cyberduck.io/download/ for your operating system.
 
-2. Use the image src in this link to link to
+2. Follow instructions 1-5 from the |Data Store Guide| to download and configure
 
-   - A DE App: |CyVerse_launch|
-   - An Atmosphere image: |CyVerse_launch|
+   |Cyberduck|
 
-3. Click :guilabel:`&Cancel` to continue is how you can show a button
-
-4. Tell the user to choose an appropriate value for a setting
-
-   .. admonition:: sample-data
-
-     Tell them if they are following with our sample data exactly
-     what value to choose
+   .. raw:: html
 
 
-..
-	#### Comment: Suggested style guide:
-	1. Steps begin with a verb or preposition: Click on... OR Under the "Results Menu"
-	2. Locations of files listed parenthetically, separated by carets, ultimate object in bold
-	(Username > analyses > *output*)
-	3. Buttons and/or keywords in bold: Click on **Apps** OR select **Arabidopsis**
-	4. Primary menu titles in double quotes: Under "Input" choose...
-	5. Secondary menu titles or headers in single quotes: For the 'Select Input' option choose...
-	####
+           <div>
+           <iframe width="600" height="800" align="center" src="https://learning.cyverse.org/projects/data_store_guide/en/latest/step1.html#download-and-first-time-configuration-of-cyberduck" frameborder="0" style="border: 1px solid black;" allow="encrypted-media; gyroscope; " allowfullscreen></iframe>
+           </div>
+
+
+4. Log into Cyberduck, and locate the **tutorial_folder** in the Cyberduck
+   display of your home directory.
+
+5. Upload the file **DE_sample_plants.fas** AND **README.txt** to the
+  **tutorial_folder**.
+
+6. In the |Discovery Environment|, click the |Data Icon| (Data Icon) to access
+   your home folder.
+
+7. Navigate to your **tutorial_folder** and verify the upload was successful.
+
 
 **Output/Results**
 
@@ -70,15 +75,53 @@ Data Management II
     * - Output
       - Description
       - Example
-    * -
+    * - **tutorial_folder** containing
+         - `DE_sample_plants.fas`
+         - `README.txt`
       -
       -
+
 
 
 ----
 
 **Description of output and results**
 
+----
+
+Self Assessment Questions
+````````````````````````````
+
+  .. admonition:: Question
+       :class: admonition-question
+
+       Q1. Why do you need Cyberduck?
+
+       A. To conveniently chat with CyVerse support
+       B. To conveniently download and upload files from your local computer
+       C. To conveniently create teams on the Discovery Environment
+       D. To view apps and tools on the Discovery Environment
+
+
+       .. admonition:: Answer
+
+          Correct answer is B.
+
+
+  .. admonition:: Question
+       :class: admonition-question
+
+       Q2. Select all that applies: Which of these will you need to configure and access the datastore using Cyberduck
+
+       A. SSH access
+       B. CyVerse account
+       C. CyVerse cyberduck connection profile
+       D. Discovery Environment
+
+
+       .. admonition:: Answer
+
+          Correct answer is B, C.
 
 ----
 

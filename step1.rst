@@ -9,75 +9,76 @@
 
 Course Overview
 -----------------
+    .. admonition:: learning-objectives
+
+       - Determine whether this course is right for you
+       - Be able to find documentation on the CyVerse Learning Center
+       - Create a CyVerse account
+
 
 **Description:**
 
-..
-	#### Comment: short text description goes here ####
+In this module, we introduce the course content and help you determine whether
+this course is right for you. We then show you how to create a CyVerse account
+and find more information in the Learning Center.
 
 ----
 
-**Input Data:**
 
-.. list-table::
-    :header-rows: 1
+*Create a CyVerse Account*
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-    * - Input
-      - Description
-      - Example
-    * -
-      -
-      -
+**Instructions for CyVerse US**
 
-*Descriptive Steps*
-~~~~~~~~~~~~~~~~~~~
+Creating a CyVerse account:
 
-.. 	#### Comment: Step title should be descriptive (i.e. Cleaning Read data) ###
+- To create a CyVerse account, you will need a valid email address
+   - We recommend using an institutional address (ending with .edu, .org, or .gov)
+- Go to |CyVerse User Portal|
+- Click the “Sign Up” button and fill out information as prompted
 
 
-1. Replace the text below with your own
 
-2. Use the image src in this link to link to
-
-   - A DE App: |CyVerse_launch|
-   - An Atmosphere image: |CyVerse_launch|
-
-3. Click :guilabel:`&Cancel` to continue is how you can show a button
-
-4. Tell the user to choose an appropriate value for a setting
-
-   .. admonition:: sample-data
-
-     Tell them if they are following with our sample data exactly
-     what value to choose
-
-
-..
-	#### Comment: Suggested style guide:
-	1. Steps begin with a verb or preposition: Click on... OR Under the "Results Menu"
-	2. Locations of files listed parenthetically, separated by carets, ultimate object in bold
-	(Username > analyses > *output*)
-	3. Buttons and/or keywords in bold: Click on **Apps** OR select **Arabidopsis**
-	4. Primary menu titles in double quotes: Under "Input" choose...
-	5. Secondary menu titles or headers in single quotes: For the 'Select Input' option choose...
-	####
-
-**Output/Results**
-
-.. list-table::
-    :header-rows: 1
-
-    * - Output
-      - Description
-      - Example
-    * -
-      -
-      -
+*Access and Search the CyVerse Learning Account*
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+- Go to |CyVerse Learning Center|
+- Explore the menu items on the sidebar
+        - Quick Start Guides will help you with quick, specific tasks
+        - Platform Guides are more in-depth guides of CyVerse’s platforms
+        - Tutorials are start-to-finish lessons on accomplishing certain analyses and tasks using CyVerse
+- To access UK/Austria specific versions of the Learning Center, go to the bottom left corner of the Learning Center home page, and click on the v:latest icon. From here, you can select the version of the documentation from the menu.
 
 
 ----
 
-**Description of output and results**
+Self Assessment Questions
+````````````````````````````
+
+  .. admonition:: Question
+       :class: admonition-question
+
+       Q1. What are the recommended email address endings for creating a CyVerse account?
+
+        A. .edu, .org, .gov
+        B. .org, .com, .net
+        C. .edu, .io, .xyz
+
+       .. admonition:: Answer
+
+          Correct answer is A
+
+
+  .. admonition:: Question
+       :class: admonition-question
+
+       Q2. Learning Center tutorials are in-depth guides of each of CyVerse’s platforms
+
+       True / False
+
+
+       .. admonition:: Answer
+
+          Correct answer is False. Tutorials are start-to-finish lessons on accomplishing certain analyses and tasks, while Platform Guides are in-depth guides of each CyVerse platform.
 
 
 ----
