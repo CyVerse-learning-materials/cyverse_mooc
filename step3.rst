@@ -48,7 +48,7 @@ In this module, we will introduce the web interface of the Discovery Environment
 3. On the left-hand sidebar, click on the following to see what is available:
 
      a. **Home** - Discovery Environment dashboard
-     b. **Data** - Interface to the Datastore including your personal and shared
+     b. **Data** - Interface to the Data Store including your personal and shared
         data
      c. **Apps** - Applications (including VICE interactive applications)
      d. **Analyses** - Status and history of analysis jobs
