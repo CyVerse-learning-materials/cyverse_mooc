@@ -35,9 +35,9 @@ In this module, we will introduce the web interface of the Discovery Environment
    options:
 
      a. Use the search bar where you can search for anything in the Data, Apps,
-        and Analyses panels.
+        and Analyses panels. You can select to limit the search using the dropdown menu of these panels on the search bar.
 
-     b. Use the question bar to chat with CyVerse support.
+     b. Use the question button to chat with CyVerse support.
 
      c. Use the bag feature to organize items you want to download (e.g. like
         an online shopping cart).
@@ -48,7 +48,7 @@ In this module, we will introduce the web interface of the Discovery Environment
 3. On the left-hand sidebar, click on the following to see what is available:
 
      a. **Home** - Discovery Environment dashboard
-     b. **Data** - Interface to the Datastore including your personal and shared
+     b. **Data** - Interface to the Data Store including your personal and shared
         data
      c. **Apps** - Applications (including VICE interactive applications)
      d. **Analyses** - Status and history of analysis jobs
