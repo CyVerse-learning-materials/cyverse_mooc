@@ -35,7 +35,7 @@ In this module, we will introduce the web interface of the Discovery Environment
    options:
 
      a. Use the search bar where you can search for anything in the Data, Apps,
-        and Analyses panels.
+        and Analyses panels. You can select to limit the search using the dropdown menu of these panels on the search bar.
 
      b. Use the question button to chat with CyVerse support.
 
