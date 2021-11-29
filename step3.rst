@@ -77,6 +77,7 @@ In this module, we will introduce the web interface of the Discovery Environment
     * - Output
       - Description
     * -
+         - **`tutorial_folder`** (folder)
          - `raw_data` (folder)
          - `results` (folder)
       - We will cover in detail how to create and share folders in the next \
