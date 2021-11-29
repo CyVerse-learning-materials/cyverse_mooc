@@ -51,8 +51,11 @@ Downloading data from the Discovery Environment
        files shared by the CyVerse community (i.e. "Community Data"). You may
        also access files located in your "Trash" folder.
 
-4. Select **Community Data** and navigate to the folder which will contain our
-   example data:
+4. From the **Community Data** directory, scroll down until you find the
+   `cyverse_training` folder, and click on it. Then navigate to the `cyverse_mooc`
+   folder, then `muscle_3_8_31`, then to `01_muscle_input`, which will contain our
+   example data. This is the full file path, which should show up as part of your
+   URL:
 
    `/iplant/home/shared/cyverse_training/cyverse_mooc/muscle_3_8_31/01_muscle_input`
 
@@ -76,7 +79,7 @@ Uploading a File to the Discovery Environment
 
 1. On your computer, use any text editor to create a file called `README.txt`.
    You may wish to save it in the same place you have the
-   `DE_sample_plants.fas`file (i.e. your Desktop, Downloads, etc.).
+   `DE_sample_plants.fas` file (i.e. your Desktop, Downloads, etc.).
 
 2. In the README.txt file, add several pieces of information about the
    `DE_sample_plants.fas` file you just downloaded:
@@ -84,6 +87,8 @@ Uploading a File to the Discovery Environment
     - Name of file: DE_sample_plants.fas
     - Type of file: FASTA file containing DNA sequences
     - Type of organism: plants
+
+    Adding a simple README with this sort of information can quickly make your data more FAIR.
 
     .. note::
 
@@ -95,8 +100,13 @@ Uploading a File to the Discovery Environment
    your home folder; you can access this from the same dropdown menu where you
    previously selected **Community Data**.
 
-4. Click the |Add folder icon| (Add Folder Icon) in the top right of the screen to add a new folder to your home directory. Name it **tutorial_folder**.
+4. Navigate to the `tutorial_folder` directory you created earlier.
 
+5. Click the **Upload** icon in the upper right, then select **Browse Local**. Then
+   navigate to your `README.txt` file and select it.
+
+6. It may take a moment, but your `README.txt` file should now be uploaded to your
+   `tutorial_folder` on the Data Store.
 
 ----
 
@@ -117,7 +127,7 @@ Self Assessment Questions
 
        .. admonition:: Answer
 
-          Correct answer is C
+          The correct answer is C.
 
 
   .. admonition:: Question
@@ -127,7 +137,9 @@ Self Assessment Questions
 
        .. admonition:: Answer
 
-          False
+          False. Open data must be free for use and distribution by anyone, whereas
+          data can be limited in access while still being FAIR. Likewise, Open data
+          are not necessarily easily findable, interoperable, or reusable.
 
   .. admonition:: Question
        :class: admonition-question
@@ -142,7 +154,9 @@ Self Assessment Questions
 
        .. admonition:: Answer
 
-          Correct answer is A
+          The correct answer is A. Making your data FAIR **can** vary widely by discipline.
+          For example, human health data may be subject to stricter security and more 
+          limited sharing, which must be accounted for when attempting to make data FAIR.
 
   .. admonition:: Question
        :class: admonition-question
@@ -152,7 +166,8 @@ Self Assessment Questions
 
        .. admonition:: Answer
 
-          True
+          True, a README can provide quick access to metadata and is easily discovered within
+          a given directory.
 ----
 
 **Fix or improve this documentation**
