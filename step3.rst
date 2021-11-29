@@ -37,7 +37,7 @@ In this module, we will introduce the web interface of the Discovery Environment
      a. Use the search bar where you can search for anything in the Data, Apps,
         and Analyses panels.
 
-     b. Use the question bar to chat with CyVerse support.
+     b. Use the question button to chat with CyVerse support.
 
      c. Use the bag feature to organize items you want to download (e.g. like
         an online shopping cart).
