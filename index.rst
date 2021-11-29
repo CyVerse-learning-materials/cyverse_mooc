@@ -38,10 +38,15 @@ Who to contact if this guide needs fixing. You can also email
     * - Maintainer
       - Institution
       - Contact
-    * - Your Name
-      - CyVerse / UA
-      - Yourname@email.com
-
+    * - Michael Culshaw-Maurer
+      - CyVerse / University of Arizona
+      - culshawmaurer@arizona.edu
+    * - Jason Williams
+      - CyVerse / Cold Spring Harbor Laboratories
+      - williams@cshl.edu
+    * - Tyson Lee Swetnam
+      - CyVerse / University of Arizona
+      - tswetnam@cyverse.org
 ----
 
 .. toctree::
