@@ -92,7 +92,7 @@ Self Assessment Questions
   .. admonition:: Question
        :class: admonition-question
 
-       Q1. Which of the following is NOT part of the Discovery Environment Menu
+       Q1. Which of the following is NOT part of the Discovery Environment Menu?
 
        A. Data
        B. Apps
@@ -108,7 +108,7 @@ Self Assessment Questions
   .. admonition:: Question
        :class: admonition-question
 
-       Q2. Select all that applies: Which of these can you do on the Discovery Environment
+       Q2. Select all that applies: Which of these can you do on the Discovery Environment?
 
        A. Create public and private teams
        B. Search for data and apps
