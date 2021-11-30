@@ -19,7 +19,6 @@ Data Management II
 
 **Description:**
 In this module we will try to discuss the basic capabilities of the Data Store particularly how you can upload and download your dataset. This is done using Cyberduck, a 3rd party software that connects the Cyverse Data store to your local computer. This enables drag-and-drop download and upload of data from the Datastore to your local computer.
-----
 
 **Input Data:**
 
