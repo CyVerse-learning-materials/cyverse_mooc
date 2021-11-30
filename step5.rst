@@ -57,8 +57,7 @@ In this module we will try to discuss the basic capabilities of the Data Store p
 4. Log into Cyberduck, and locate the **tutorial_folder** in the Cyberduck
    display of your home directory.
 
-5. Upload the file **DE_sample_plants.fas** AND **README.txt** to the
-  **tutorial_folder**.
+5. Upload the file **DE_sample_plants.fas** AND **README.txt** to the **tutorial_folder**.
 
 6. In the |Discovery Environment|, click the |Data Icon| (Data Icon) to access
    your home folder.
