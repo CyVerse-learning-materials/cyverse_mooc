@@ -120,7 +120,7 @@ Self Assessment Questions
        .. admonition:: Answer
 
           Correct answer is B, C.
-
+	CyVerse cyberduck connection profile can be downloaded following the |Data Store Guide|.
 ----
 
 **Fix or improve this documentation**
