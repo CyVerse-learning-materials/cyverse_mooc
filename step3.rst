@@ -102,8 +102,7 @@ Self Assessment Questions
 
        .. admonition:: Answer
 
-          Correct answer is D.
-
+          Correct answer is D. Although videos are not a DE menu, videos and webinars are available in the dashboard.
 
   .. admonition:: Question
        :class: admonition-question
