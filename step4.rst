@@ -25,6 +25,8 @@ Data Management I
 
 In this module, we introduce the concepts of FAIR data and the Data Lifecycle and demonstrate how to move data between your computer and the CyVerse Data Store.
 
+Here is a link to the FAIR Data assessment tool mentioned in the video: https://ardc.edu.au/resources/working-with-data/fair-data/fair-self-assessment-tool/
+
 
 ----
 
