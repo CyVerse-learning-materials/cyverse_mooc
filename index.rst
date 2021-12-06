@@ -196,16 +196,3 @@ Application(s) used
    .. |Substitution| raw:: html # Place this anywhere in the text you want a hyperlink
 
       <a href="REPLACE_THIS_WITH_URL" target="blank">Replace_with_text</a>
-
-
-.. |Github Repo Link|  raw:: html
-
-   <a href="FIX_FIX_FIX_FIX_FIX_FIX_FIX_FIX_FIX_FIX_FIX_FIX_FIX_FIX_FIX" target="blank">Github Repo Link</a>
-
-.. |Download Cyberduck| raw:: html
-
-   <a href="https://cyberduck.io/" target="blank">Download Cyberduck</a>
-
-.. |Original App Documentation|  raw:: html
-
-   <a href="http://www.drive5.com/muscle/manual/" target="blank">Original App Documentation</a>

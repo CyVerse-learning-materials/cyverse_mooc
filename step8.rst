@@ -143,7 +143,7 @@ happen at increased speed. To complete our analyses, we will install the |ape pa
 
 1. From the R console, we will do the following commands:
 
-     .. code-block:: language
+     .. code-block:: R
 
        # install and load the needed R library
        install.packages("ape")
@@ -311,8 +311,3 @@ Self Assessment Questions
    .. |Substitution| raw:: html # Place this anywhere in the text you want a hyperlink
 
       <a href="REPLACE_THIS_WITH_URL" target="blank">Replace_with_text</a>
-
-
-.. |Github Repo Link|  raw:: html
-
-   <a href="FIX_FIX_FIX_FIX_FIX_FIX_FIX_FIX_FIX_FIX_FIX_FIX_FIX_FIX_FIX" target="blank">Github Repo Link</a>

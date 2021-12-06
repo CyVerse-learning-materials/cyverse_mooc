@@ -81,7 +81,7 @@ In this module, we will introduce the web interface of the Discovery Environment
          - `raw_data` (folder)
          - `results` (folder)
       - We will cover in detail how to create and share folders in the next \
-        steps of the course. 
+        steps of the course.
 
 ----
 
@@ -161,8 +161,3 @@ Self Assessment Questions
    .. |Substitution| raw:: html # Place this anywhere in the text you want a hyperlink
 
       <a href="REPLACE_THIS_WITH_URL" target="blank">Replace_with_text</a>
-
-
-.. |Github Repo Link|  raw:: html
-
-   <a href="FIX_FIX_FIX_FIX_FIX_FIX_FIX_FIX_FIX_FIX_FIX_FIX_FIX_FIX_FIX" target="blank">Github Repo Link</a>

@@ -93,13 +93,13 @@
 
    <a href="https://learning.cyverse.org/projects/data_store_guide/en/latest/step4.html#share-a-file-folder-in-discovery-environment-with-another-cyverse-user" target="blank">Sharing Permissions</a>
 
-.. |SUBSTITUTION_NAME| raw:: html
+.. |Github Repo Link|  raw:: html
 
-   <a href="URL" target="blank">LINK_NAME</a>
+   <a href="https://github.com/CyVerse-learning-materials/cyverse_mooc" target="blank">Github Repo Link</a>
 
-.. |SUBSTITUTION_NAME| raw:: html
+.. |Download Cyberduck|raw:: html
 
-   <a href="URL" target="blank">LINK_NAME</a>
+   <a href="https://cyberduck.io/" target="blank">Download Cyberduck</a>
 
 .. |SUBSTITUTION_NAME| raw:: html
 

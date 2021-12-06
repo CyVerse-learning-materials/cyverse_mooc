@@ -155,7 +155,7 @@ Self Assessment Questions
        .. admonition:: Answer
 
           The correct answer is A. Making your data FAIR **can** vary widely by discipline.
-          For example, human health data may be subject to stricter security and more 
+          For example, human health data may be subject to stricter security and more
           limited sharing, which must be accounted for when attempting to make data FAIR.
 
   .. admonition:: Question
@@ -211,8 +211,3 @@ Self Assessment Questions
    .. |Substitution| raw:: html # Place this anywhere in the text you want a hyperlink
 
       <a href="REPLACE_THIS_WITH_URL" target="blank">Replace_with_text</a>
-
-
-.. |Github Repo Link|  raw:: html
-
-   <a href="FIX_FIX_FIX_FIX_FIX_FIX_FIX_FIX_FIX_FIX_FIX_FIX_FIX_FIX_FIX" target="blank">Github Repo Link</a>
