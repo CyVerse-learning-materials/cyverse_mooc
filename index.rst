@@ -135,12 +135,12 @@ Application(s) used
       - 3.8.31
       - Multiple sequence aligner
       -	|CyVerse_launch MUSCLE|
-      - |Original App Documentation muscle|
+      - |Original App documentation muscle|
     * - Rocker
       - Latest
       - RStudio VICE application
       -	|CyVerse_rocker_launch|
-      - |Original App Documentation rocker|
+      - |Original App documentation rocker|
 ----
 
 **Fix or improve this documentation**

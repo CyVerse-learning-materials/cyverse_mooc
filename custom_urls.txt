@@ -41,13 +41,13 @@
 
 
 
-.. |Original App Documentation muscle| raw:: html
+.. |Original App documentation muscle| raw:: html
 
-   <a href="https://drive5.com/muscle/manual/" target="blank">Original App Documentation muscle</a>
+   <a href="https://drive5.com/muscle/manual/" target="blank">Original App documentation muscle</a>
 
-.. |Original App Documentation rocker| raw:: html
+.. |Original App documentation rocker| raw:: html
 
-   <a href="https://github.com/cyverse-vice/rstudio-verse" target="blank">Original App Documentation rocker</a>
+   <a href="https://github.com/cyverse-vice/rstudio-verse" target="blank">Original App documentation rocker</a>
 
 .. |VICE| raw:: html
 
