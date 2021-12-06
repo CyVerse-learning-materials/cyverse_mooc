@@ -49,7 +49,8 @@ Analysis with the Discovery Environment
    **muscle_output** inside your tutorial folder.
 
 2. Click |Apps icon| (Apps icon) from the DE workspace; search for
-   **Muscle-3.8.31**
+   **Muscle-3.8.31**; Click on the application name/link to open the
+   application. 
 
 3. Under “Analysis Info”, for **Output Folder** click **Browse** and navigate
    to and select the **muscle_output** created above. No other changes are
