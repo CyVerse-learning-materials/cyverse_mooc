@@ -51,7 +51,7 @@ Creating a CyVerse account:
         - Quick Start Guides will help you with quick, specific tasks
         - Platform Guides are more in-depth guides of CyVerse’s platforms
         - Tutorials are start-to-finish lessons on accomplishing certain analyses and tasks using CyVerse
-- To access UK/Austria specific versions of the Learning Center, go to the bottom left corner of the Learning Center home page, and click on the v:latest icon. From here, you can select the version of the documentation from the menu.
+- To access UK/Austria specific versions of the Learning Center, go to the bottom left corner of the Learning Center home page, and click on the v:cyverse-usa icon. From here, you can select the version of the documentation from the menu.
 
 
 ----
