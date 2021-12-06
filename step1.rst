@@ -83,7 +83,7 @@ Self Assessment Questions
 
        .. admonition:: Answer
 
-          Correct answer is False. Tutorials are start-to-finish lessons on accomplishing certain analyses and tasks, while Platform Guides are in-depth guides of each CyVerse platform.
+          False. Tutorials are start-to-finish lessons on accomplishing certain analyses and tasks, while Platform Guides are in-depth guides of each CyVerse platform.
 
 
 ----
