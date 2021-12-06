@@ -12,15 +12,15 @@ Analysis with the Discovery Environment
 
     .. admonition:: learning-objectives
 
-       - Understand the analysis capabilities of the Discovery Environment
-       - Understand how to find an analysis app and how to launch the analysis
-       - Understand how to monitor analysis results
-       - Understand how to access analysis results
+       - Understand basic analysis capabilities of the Discovery Environment
+       - Be able to find an analysis app and how to launch the analysis
+       - Be able to monitor analysis results
+       - Be able to access analysis results
 
 **Description:**
 
-..
-	#### Comment: short text description goes here ####
+In this module, we introduce analysis in the CyVerse discovery environment and
+demonstrate how to launch and monitor analyses in the discovery environment.
 
 ----
 
@@ -29,46 +29,42 @@ Analysis with the Discovery Environment
 .. list-table::
     :header-rows: 1
 
-    * - Input
+    * - Output
       - Description
       - Example
-    * - A fasta file containing DNA sequences to align.
-      - We will use the previously uploaded file from the `Data Management II <step5.html>`_
-        section.
-      - View the example |MUSCLE input folder|.
-
-`Learning Center Home <http://learning.cyverse.org/>`_
+    * - **DE_sample_plants.fas**.
+      - A FASTA file containing unaligned DNA sequences from a common locus.
+      - |DE_sample_plants.fas|
 
 *Descriptive Steps*
 ~~~~~~~~~~~~~~~~~~~
 
 1. If necessary, log into the CyVerse |Discovery Environment|.
 
-2. Click the |Data Icon| (Data Icon) and navigate to your **tutorial_folder**;
-   click the |Add folder icon| (Add Folder Icon) and create a folder called
-   **muscle_output** inside your tutorial folder.
+2. Click the |Data Icon| (Data Icon) and navigate to your **results** folder in
+   the **tutorial_folder**; click the |Add folder icon| (Add Folder Icon) and create a folder called **muscle_output** inside your tutorial folder.
 
 2. Click |Apps icon| (Apps icon) from the DE workspace; search for
    **Muscle-3.8.31**; Click on the application name/link to open the
-   application. 
+   application.
 
 3. Under “Analysis Info”, for **Output Folder** click **Browse** and navigate
    to and select the **muscle_output** created above. No other changes are
    needed at this step, but you may edit the analysis name or comments
    (optional).
 
-4. Under “Select Input Data” click Browse, then navigate to the
-   **tutorial_folder** and select (checkbox) the **DE_sample_plants.fas** previously uploaded.
+4. Under “Select input data” click Browse, then navigate to the **raw_data**
+   folder in the **tutorial_folder** and select (checkbox) the **DE_sample_plants.fas** previously uploaded.
 
 5. Under “Sequence Type”, select DNA.
 
-6. Under the optional “Advanced Settings”, leave the default settings. If
+6. Under the optional “Advanced Settings”, make no changes. If
    required, some analyses may be launched with requests for more minimum
    Resource Requirements, but this may cause those analyses to sit longer in
    the submission queue until a node matching those minimum requirements
-   becomes available.
+   becomes available; click **Next**.
 
-7. Click Launch Analysis
+7. Click **Launch Analysis**.
 
 8. You will receive a notification and be redirected to the Analyses page.
 
@@ -78,7 +74,7 @@ Analysis with the Discovery Environment
    status.
 
 
-
+----
 
 **Output/Results**
 
@@ -97,14 +93,7 @@ Analysis with the Discovery Environment
         analyses. These can be useful for diagnosing failed analyses. All other
         files are outputs of the Muscle software and contain multiple sequence
         alignments in a variety of common formats.
-      - View the example |MUSCLE output folder|.
-
-
-----
-
-**Description of output and results**
-
-
+      - View the example |muscle_output| folder.
 
 ----
 

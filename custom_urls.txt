@@ -75,7 +75,7 @@
 
 .. |Rstudio output| raw:: html
 
-   <a href="https://datacommons.cyverse.org/browse/iplant/home/shared/cyverse_training/cyverse_mooc/Rocker_RStudio_Latest_analysis1" target="blank">Rstudio output</a>
+   <a href="https://datacommons.cyverse.org/browse/iplant/home/shared/cyverse_training/cyverse_mooc/tutorial_folder/results/rocker_output" target="blank">Rstudio output</a>
 
 .. |Cyberduck| raw:: html
 
@@ -101,17 +101,17 @@
 
    <a href="https://cyberduck.io/" target="blank">Download Cyberduck</a>
 
-.. |SUBSTITUTION_NAME| raw:: html
+.. |example tutorial folder| raw:: html
 
-   <a href="URL" target="blank">LINK_NAME</a>
+   <a href="https://datacommons.cyverse.org/browse/iplant/home/shared/cyverse_training/cyverse_mooc" target="blank">example tutorial folder</a>
 
-.. |SUBSTITUTION_NAME| raw:: html
+.. |DE_sample_plants.fas| raw:: html
 
-   <a href="URL" target="blank">LINK_NAME</a>
+   <a href="https://de.cyverse.org/data/ds/iplant/home/shared/cyverse_training/cyverse_mooc/tutorial_folder/raw_data/DE_sample_plants.fas?type=file&resourceId=4515b136-56b0-11ec-94df-90e2ba675364" target="blank">DE_sample_plants.fas</a>
 
-.. |SUBSTITUTION_NAME| raw:: html
+.. |muscle_output| raw:: html
 
-   <a href="URL" target="blank">LINK_NAME</a>
+   <a href="https://datacommons.cyverse.org/browse/iplant/home/shared/cyverse_training/cyverse_mooc/tutorial_folder/results/muscle_output" target="blank">muscle_output</a>
 
 .. |SUBSTITUTION_NAME| raw:: html
 

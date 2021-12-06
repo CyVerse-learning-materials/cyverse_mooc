@@ -61,10 +61,16 @@ that allows us to complete our goal of visualizing a phylogenetic tree.
     * - Input
       - Description
       - Example
-    * - The output of a multiple species DNA sequence alignment from MUSCLE
-      - We will use a multiple alignment generated in the Discovery Environment
-        by the MUSCLE App in the previous sections to generate a phylogenetic tree using some tools in R.
-      - View the example |MUSCLE output folder|.
+    * - - A folder of logs
+        - clstalw.aln
+        - fasta.aln
+        - phylip_interleaved.aln
+        - phylip_sequential.aln
+      - The logs folder are log files returned with every Discovery Environment
+        analyses. These can be useful for diagnosing failed analyses. All other
+        files are outputs of the Muscle software and contain multiple sequence
+        alignments in a variety of common formats.
+      - View the example |muscle_output| folder.
 
 *Getting VICE Access*
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -88,9 +94,13 @@ accessible from CyVerse US. You must request access to use.
 *Launching a VICE application*
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
+
   1. If necessary, log into the CyVerse |Discovery Environment|.
 
-  2. Use this quicklaunch link |CyVerse_rocker_launch| or click on |Apps icon|
+  2. Click the |Data Icon| (Data Icon) and navigate to your **results** folder
+     in the **tutorial_folder**; click the |Add folder icon| (Add Folder Icon) and create a folder called **rocker_output** inside your tutorial folder.
+
+  3. Use this quicklaunch link |CyVerse_rocker_launch| or click on |Apps icon|
      (Apps icon) to launch the **Rocker RStudio Latest** App. You can also use
      the DE search bar to search for this application in the Apps category.
 
@@ -99,23 +109,25 @@ accessible from CyVerse US. You must request access to use.
         We provide and maintain the latest versions of R and RStudio made
         available by the |Rocker Project|.
 
-  3. Launch the application and adjust the following:
+  4. Launch the application and adjust the following:
 
-      a. Under "Analysis Info", add comments if desired; click **Next**;
+      a. Under “Analysis Info”, for **Output Folder** click **Browse** and
+         navigate to and select the **rocker_output** created above. click
+         **Next**;
       b. For "Parameters", under “Input Folder” click **Browse** and navigate
-         to the **tutorial_folder** and select the **muscle_output** folder
-         where your Muscle analysis results should be located; click **Select
-         Current Folder**; then **Next**;
-       c. Click **Next** to skip Advanced Settings;
-       d. Click **Launch Analysis** to launch your application
+         to the **tutorial_folder**, then the **results** folder and select the
+         **muscle_output** folder where your Muscle analysis results should be
+         located; click **Select Current Folder**; then **Next**;
+      c. Click **Next** to skip Advanced Settings;
+      d. Click **Launch Analysis** to launch your application
 
-  4. At this point you will be redirected to the Analyses menu. Your
+  5. At this point you will be redirected to the Analyses menu. Your
      application will be listed as “Submitted” for a few minutes (usually just
      a few, but more depending on both the size of the application software and
      any imported datasets).
 
-  5. When the Status of the launch is Running, click on the |Link out icon|
-     (link out Icon); a new tab where your VICE application will run should open in your browser.
+  6. When the Status of the launch is Running, click on the |Link out icon|
+     (link out icon); a new tab where your VICE application will run should open in your browser.
 
      .. tip::
 
@@ -141,7 +153,7 @@ happen at increased speed. To complete our analyses, we will install the |ape pa
   The data we loaded at launch of the VICE application will be in the ‘work’
   directory at ‘home’.
 
-1. From the R console, we will do the following commands:
+  1. From the R console, enter the following commands:
 
      .. code-block:: R
 
@@ -150,7 +162,7 @@ happen at increased speed. To complete our analyses, we will install the |ape pa
        library(ape)
 
        #Read in the aligned DNA fasta file
-       alignment <- read.FASTA ("~/work/02_muscle_output/fasta.aln", type="DNA")
+       alignment <- read.FASTA ("~/work/muscle_output/fasta.aln", type="DNA")
 
        # Create a distance matrix for the sequences
        dist_mtrx <- dist.dna(alignment)
@@ -164,7 +176,8 @@ happen at increased speed. To complete our analyses, we will install the |ape pa
        # save the tree to a file
        write.tree(nj_tree, file = "~/work/tree.newick")
 
-2. You should have visualized the resulting tree and also created the file ‘tree.newick’ in your work directory
+  2. You should have visualized the resulting tree and also created the file
+     ‘tree.newick’ in your work directory.
 
 
 Terminating your VICE session and saving work to the Data Store
@@ -178,18 +191,18 @@ Once you have completed your work, you can save your work to the Data Store and 
      extension, your application will automatically save outputs. It is
      recommended that you save your work to the Data Store before time expires.
 
- 1. In the Analyses pane of the Discovery Environment, select your running
-    RStudio VICE application.
+  1. In the Analyses pane of the Discovery Environment, select your running
+     RStudio VICE application.
 
- 2. Under **More Actions**, select **Terminate**; confirm Termination on the
-    pop-up notice.
+  2. Under **More Actions**, select **Terminate**; confirm Termination on the
+     pop-up notice.
 
- 3. When the VICE application has the status completed, click the folder icon
-    to view the folder on your data store where results will be written. It may
-    take time for all outputs to be saved depending on the size of the data
-    generated.
+  3. When the VICE application has the status completed, click the folder icon
+     to view the folder on your data store where results will be written. It may
+     take time for all outputs to be saved depending on the size of the data
+     generated.
 
-    .. tip::
+     .. tip::
 
        You don't have to terminate your analyses to save your work to the Data
        Store. From within the RStudio environment using the terminal, you can
@@ -197,6 +210,7 @@ Once you have completed your work, you can save your work to the Data Store and 
        RStudio itself allows you to download files and plots directly to
        your local computer. Use the Export features present in the file pane.
 
+----
 
 **Output/Results**
 
@@ -210,13 +224,6 @@ Once you have completed your work, you can save your work to the Data Store and 
       - A Newick-formatted phylogenetic tree file which can visualized using
         your choice of tools.
       - |Rstudio output|
-
-
-----
-
-**Description of output and results**
-
-
 
 ----
 

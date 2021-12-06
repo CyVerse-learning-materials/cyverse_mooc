@@ -52,14 +52,14 @@ Downloading data from the Discovery Environment
        also access files located in your "Trash" folder.
 
 4. From the **Community Data** directory, scroll down until you find the
-   `cyverse_training` folder, and click on it. Then navigate to the `cyverse_mooc`
-   folder, then `muscle_3_8_31`, then to `01_muscle_input`, which will contain our
-   example data. This is the full file path, which should show up as part of your
-   URL:
+   **cyverse_training** folder, and click on it. Then navigate to the
+   **cyverse_mooc** folder, then **muscle_3_8_31**, then to
+   **01_muscle_input**, which will contain our example data. This is the full
+   file path, which should show up as part of your URL:
 
    `/iplant/home/shared/cyverse_training/cyverse_mooc/muscle_3_8_31/01_muscle_input`
 
-5. Click (Select) the checkbox next to the `DE_sample_plants.fas` file to
+5. Click (Select) the checkbox next to the **DE_sample_plants.fas** file to
    select it.
 
 
@@ -77,12 +77,12 @@ Downloading data from the Discovery Environment
 Uploading a File to the Discovery Environment
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-1. On your computer, use any text editor to create a file called `README.txt`.
+1. On your computer, use any text editor to create a file called **README.txt**.
    You may wish to save it in the same place you have the
-   `DE_sample_plants.fas` file (i.e. your Desktop, Downloads, etc.).
+   **DE_sample_plants.fas** file (i.e. your Desktop, Downloads, etc.).
 
-2. In the README.txt file, add several pieces of information about the
-   `DE_sample_plants.fas` file you just downloaded:
+2. In the **README.txt** file, add several pieces of information about the
+   **DE_sample_plants.fas** file you just downloaded:
 
     - Name of file: DE_sample_plants.fas
     - Type of file: FASTA file containing DNA sequences
@@ -100,13 +100,33 @@ Uploading a File to the Discovery Environment
    your home folder; you can access this from the same dropdown menu where you
    previously selected **Community Data**.
 
-4. Navigate to the `tutorial_folder` directory you created earlier.
+4. Navigate to the **tutorial_folder** directory you created earlier.
 
-5. Click the **Upload** icon in the upper right, then select **Browse Local**. Then
-   navigate to your `README.txt` file and select it.
+5. Click the **Upload** icon in the upper right, then select **Browse Local**.
+   Then navigate to your **README.txt** file and select it.
 
-6. It may take a moment, but your `README.txt` file should now be uploaded to your
-   `tutorial_folder` on the Data Store.
+6. It may take a moment, but your **README.txt** file should now be uploaded to
+   your **tutorial_folder** on the Data Store; you may need to refresh your
+   web browser to see the update.
+
+
+----
+
+**Output/Results**
+
+.. list-table::
+    :header-rows: 1
+
+    * - Output
+      - Description
+      - Example
+    * - - On CyVerse
+            **README.txt**
+        - On your Computer
+            **DE_sample_plants.fas**
+      - The README file is a simple but useful way to describe folder contents.
+        The fasta file contains data we will use in future steps.
+      - View the |example tutorial folder|.
 
 ----
 

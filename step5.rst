@@ -28,11 +28,14 @@ In this module we will try to discuss the basic capabilities of the Data Store p
     * - Input
       - Description
       - Example
-    * -
-        - **DE_sample_plants.fas**
-        - **README.txt**
-      - Sample files downloaded from the previous tutorials
-      -
+    * - - On CyVerse
+            **README.txt**
+        - On your Computer
+            **DE_sample_plants.fas**
+      - The README file is a simple but useful way to describe folder contents.
+        The fasta file contains data we will use in future steps.
+      - View the |example tutorial folder|.
+
 
 *Upload data with Cyberduck*
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -40,7 +43,8 @@ In this module we will try to discuss the basic capabilities of the Data Store p
 .. 	#### Comment: Step title should be descriptive (i.e. Cleaning Read data) ###
 
 
-1. Download and install Cyberduck https://cyberduck.io/download/ for your operating system.
+1. Download and install Cyberduck https://cyberduck.io/download/ for your
+   operating system.
 
 2. Follow instructions 1-5 from the |Data Store Guide| to download and configure
 
@@ -54,16 +58,20 @@ In this module we will try to discuss the basic capabilities of the Data Store p
            </div>
 
 
-4. Log into Cyberduck, and locate the **tutorial_folder** in the Cyberduck
-   display of your home directory.
+4. Log into Cyberduck, and locate the  **raw_data** folder inside your
+   **tutorial_folder** in the Cyberduck display of your home directory.
 
-5. Upload the file **DE_sample_plants.fas** AND **README.txt** to the **tutorial_folder**.
+5. Upload the file **DE_sample_plants.fas** to the **raw_data** folder inside
+   the **tutorial_folder**.
 
 6. In the |Discovery Environment|, click the |Data Icon| (Data Icon) to access
    your home folder.
 
-7. Navigate to your **tutorial_folder** and verify the upload was successful.
+7. Navigate to the **raw_data** folder inside your **tutorial_folder** and
+   verify the upload was successful.
 
+
+----
 
 **Output/Results**
 
@@ -73,17 +81,12 @@ In this module we will try to discuss the basic capabilities of the Data Store p
     * - Output
       - Description
       - Example
-    * - **tutorial_folder** containing
-         - `DE_sample_plants.fas`
-         - `README.txt`
-      -
-      -
-
-
-
-----
-
-**Description of output and results**
+    * - - On CyVerse
+            **README.txt** (in **tutorial_folder**)
+            **DE_sample_plants.fas** (in **tutorial_folder/raw_data**)
+      - Now, both the readme and fasta file are co-located on the CyVerse Data
+        Store.
+      - View the |example tutorial folder|.
 
 ----
 

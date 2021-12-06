@@ -12,8 +12,8 @@ Data Management III
 
     .. admonition:: learning-objectives
 
-       - Understand how to apply metadata in the discovery environment interface
-       - Understand how to share data with other CyVerse users
+       - Be able to apply metadata in the discovery environment interface
+       - Be able to share data with other CyVerse users
 
 **Description:**
 
@@ -29,10 +29,10 @@ In this module, we introduce how to apply metadata in the Discovery Environment 
     * - Input
       - Description
       - Example
-    * - Tutorial folder containing **DE_sample_plants.fas** and **Readme.txt**
-        created previously.
-      - These are the dataset and metadata readme file created previously
-      - **FIX FIX FIX**
+    * - - **README.txt**
+          **DE_sample_plants.fas**
+      - These are the metadata and dataset uploaded previously.
+      - View the |example tutorial folder|.
 
 *Editing Metadata on Single Files in the Discovery Environment*
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -42,14 +42,15 @@ In this module, we introduce how to apply metadata in the Discovery Environment 
   2. Click the |Data Icon| (Data Icon) to browse your collection of files in the
      CyVerse Data Store.
 
-  3. Navigate to the **tutorial_folder** and select (checkbox) the
-     **DE_sample_plants.fas** file uploaded previously.
+  3. Navigate to the **raw_data** folder inside **tutorial_folder** and select
+     (checkbox) the **DE_sample_plants.fas** file uploaded previously.
 
   4. Under the **More Actions** menu, click on the **`Metadata`** choice.
      You will see existing metadata for the file/folder in the Attribute,
      Value, Unit (AVU) format.
 
 *Adding metadata*
+
   1. Click the “+ Add Metadata” button to add a new entry. Then follow the
      directions for editing metadata below.
 
@@ -76,10 +77,14 @@ It is possible to add or edit metadata on multiples files in the Discovery Envir
     * - Output
       - Description
       - Example
-    * - A *DE_sample_plants.fas* file with metadata applied
-      - Metadata associated with a file uploaded to the CyVerse Data Store is
-        now made searchable by the metadata attributes.
-      - FIX FIX FIX FIX
+    * - **DE_sample_plants.fas** with metadata applied.
+      - Although the file itself has not been edited, viewing the metadata in
+        the Discovery Enviornment lets you view all annotations you have made
+        to the file.
+      - View |DE_sample_plants.fas| with metadata applied (you will need to
+        view the file in the Discovery Environment to view the associated
+        metadata; select the file and click **More Actions** and then **Metadata**).
+
 
 *Data Sharing in the Discovery Environment*
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -120,7 +125,7 @@ Self Assessment Questions
 
        .. admonition:: Answer
 
-           Click here to see how it should look and compare your results. **FIX FIX FIX FIX**
+           Click |DE_sample_plants.fas| to see how it should look and compare your results.
 
 
   .. admonition:: Question
