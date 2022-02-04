@@ -18,7 +18,7 @@ Tour of the Discovery Environment
 
 **Description:**
 
-In this module, we will introduce the web interface of the Discovery Environment. This will be done by navigating through all the major menu items and familiarizing what you can do for each menu. Lastly, we will try to create your own folder for your data and analysis which can be used for your data and subsequent modules.
+In this module, we will introduce the web interface of the Discovery Environment. This will be done by navigating through all the major menu items and familiarizing what you can do for each menu. Lastly, you will create your own folder for your data and subsequent modules.
 
 ----
 
@@ -31,7 +31,7 @@ In this module, we will introduce the web interface of the Discovery Environment
 
 1. Sign up and log into the CyVerse |Discovery Environment|.
 
-2. Familiarize with platform by hovering and clicking among the different
+2. Familiarize with platform by hovering and clicking on the different
    options:
 
      a. Use the search bar where you can search for anything in the Data, Apps,
@@ -56,6 +56,12 @@ In this module, we will introduce the web interface of the Discovery Environment
      f. **Teams** - Organize collaborators and sharing
      g. **Collections** - Public collections of applications and data
      h. **Help** - Help and support
+
+      .. tip::
+
+     	   You can expand the navigation side bar for a detailed description of views in the Discovery Environment.
+
+          |navigation_bar|
 
 4. Go back to the Data menu and familiarize with the options:
 
@@ -106,7 +112,7 @@ Self Assessment Questions
 
        .. admonition:: Answer
 
-          Correct answer is D. Although videos are not a DE menu, videos and webinars are available in the dashboard.
+          Correct answer is D. Although videos are not a DE menu, videos and webinars are available in the 'Home' view dashboard.
 
   .. admonition:: Question
        :class: admonition-question
@@ -115,8 +121,8 @@ Self Assessment Questions
 
        A. Create public and private teams
        B. Search for data and apps
-       C. Send message to other cyverse users
-       D. Instantiate environments like Jupyter and Rstudio
+       C. Send message to other CyVerse users
+       D. Launch environments like Jupyter and Rstudio
 
 
        .. admonition:: Answer

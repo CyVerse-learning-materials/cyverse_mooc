@@ -12,7 +12,7 @@ Course Overview
     .. admonition:: learning-objectives
 
        - Determine whether this course is right for you
-       - Be able to find documentation on the CyVerse Learning Center
+       - Find documentation on the CyVerse Learning Center
        - Create a CyVerse account
 
 
@@ -38,7 +38,7 @@ VIDEO GOES HERE
 Creating a CyVerse account:
 
 - To create a CyVerse account, you will need a valid email address
-   - We recommend using an institutional address (ending with .edu, .org, or .gov)
+   - We recommend using an institutional address (e.g., ending with .edu, .org, or .gov)
 - Go to |CyVerse User Portal|
 - Click the “Sign Up” button and fill out information as prompted
 

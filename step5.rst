@@ -18,7 +18,8 @@ Data Management II
 
 
 **Description:**
-In this module we will try to discuss the basic capabilities of the Data Store particularly how you can upload and download your dataset. This is done using Cyberduck, a 3rd party software that connects the Cyverse Data store to your local computer. This enables drag-and-drop download and upload of data from the Datastore to your local computer.
+In this module, we discuss how you can upload and download your dataset(s) in the Discovery Environment. This is done using Cyberduck, a 3rd party software that connects your local computer to the Data Store to enable drag-and-drop download and upload of data.
+
 
 **Input Data:**
 
@@ -43,31 +44,21 @@ In this module we will try to discuss the basic capabilities of the Data Store p
 .. 	#### Comment: Step title should be descriptive (i.e. Cleaning Read data) ###
 
 
-1. Download and install Cyberduck https://cyberduck.io/download/ for your
-   operating system.
+1. Download and install |Cyberduck| for your operating system.
 
-2. Follow instructions 1-5 from the |Data Store Guide| to download and configure
+2. Follow instructions 1-5 from the Data Store Guide to download and
+   |configure Cyberduck|.
 
-   |Cyberduck|
-
-   .. raw:: html
-
-
-           <div>
-           <iframe width="600" height="800" align="center" src="https://learning.cyverse.org/projects/data_store_guide/en/latest/step1.html#download-and-first-time-configuration-of-cyberduck" frameborder="0" style="border: 1px solid black;" allow="encrypted-media; gyroscope; " allowfullscreen></iframe>
-           </div>
-
-
-4. Log into Cyberduck, and locate the  **raw_data** folder inside your
+3. Log into Cyberduck, and locate the  **raw_data** folder inside your
    **tutorial_folder** in the Cyberduck display of your home directory.
 
-5. Upload the file **DE_sample_plants.fas** to the **raw_data** folder inside
+4. Upload the file **DE_sample_plants.fas** to the **raw_data** folder inside
    the **tutorial_folder**.
 
-6. In the |Discovery Environment|, click the |Data Icon| (Data Icon) to access
+5. In the |Discovery Environment|, click the |Data Icon| (Data Icon) to access
    your home folder.
 
-7. Navigate to the **raw_data** folder inside your **tutorial_folder** and
+6. Navigate to the **raw_data** folder inside your **tutorial_folder** and
    verify the upload was successful.
 
 

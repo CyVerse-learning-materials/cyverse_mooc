@@ -12,9 +12,9 @@ Interactive Analyses
 
     .. admonition:: learning-objectives
 
-       - Know how to request VICE access.
-       - Know how to launch and access VICE application.
-       - Understand how to configure the VICE application and run an analysis.
+       - Request VICE access.
+       - Launch and access VICE application.
+       - Configure the VICE application and run an analysis.
        - Save the outputs of a VICE application to your Data Store.
 
 
@@ -98,7 +98,7 @@ accessible from CyVerse US. You must request access to use.
   1. If necessary, log into the CyVerse |Discovery Environment|.
 
   2. Click the |Data Icon| (Data Icon) and navigate to your **results** folder
-     in the **tutorial_folder**; click the |Add folder icon| (Add Folder Icon) and create a folder called **rocker_output** inside your tutorial folder.
+     in the **tutorial_folder**; click the |Add folder icon| (Add Folder button) and create a folder called **rocker_output** inside your tutorial folder.
 
   3. Use this quicklaunch link |CyVerse_rocker_launch| or click on |Apps icon|
      (Apps icon) to launch the **Rocker RStudio Latest** App. You can also use
@@ -121,7 +121,7 @@ accessible from CyVerse US. You must request access to use.
       c. Click **Next** to skip Advanced Settings;
       d. Click **Launch Analysis** to launch your application
 
-  5. At this point you will be redirected to the Analyses menu. Your
+  5. In the navigation, click on the |Analyses icon| (Analyses) view. Your
      application will be listed as “Submitted” for a few minutes (usually just
      a few, but more depending on both the size of the application software and
      any imported datasets).
@@ -131,7 +131,7 @@ accessible from CyVerse US. You must request access to use.
 
      .. tip::
 
-        Even once the application is in the Running status, you may still have to wait some additional time if data is being transferred
+        Even when the application is in the 'Running' status, you may still have to wait some additional time if data is being transferred.
 
 
 *Completing our analysis in R*

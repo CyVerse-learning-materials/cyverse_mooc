@@ -15,9 +15,9 @@
 .. |CyVerse_rocker_launch| image:: ./img/Powered-By-CyVerse-blue.png
     :width: 125
     :height: 20
-    :target: https://de.cyverse.org/apps/de/95476bc6-bbe3-11eb-a080-008cfa5ae621  target="_blank"
+    :target: https://de.cyverse.org/apps/de/95476bc6-bbe3-11eb-a080-008cfa5ae621/launch?saved-launch-id=f0063599-9dba-406f-8927-1f3ad326f956
 .. |Apps icon| image:: ./img/de/apps_icon.png
-    :width: 32
+    :width: 30
     :height: 24
 .. |Link out icon| image:: ./img/de/link_out_icon.png
     :width: 24
@@ -38,6 +38,14 @@
 .. |Upload icon| image:: ./img/de/upload_icon.png
     :width: 27
     :height: 21
+
+.. |Analyses icon| image:: ./img/de/analyses_icon.png
+    :width: 30
+    :height: 25
+
+.. |navigation_bar| image:: ./img/de/navigation.png
+    :width: 300
+    :height: 600
 
 
 
@@ -113,9 +121,9 @@
 
    <a href="https://datacommons.cyverse.org/browse/iplant/home/shared/cyverse_training/cyverse_mooc/tutorial_folder/results/muscle_output" target="blank">muscle_output</a>
 
-.. |SUBSTITUTION_NAME| raw:: html
+.. |configure Cyberduck| raw:: html
 
-   <a href="URL" target="blank">LINK_NAME</a>
+   <a href="https://learning.cyverse.org/projects/data_store_guide/en/latest/step1.html#download-and-first-time-configuration-of-cyberduck" target="blank">Configure Cyberduck</a>
 
 .. |SUBSTITUTION_NAME| raw:: html
 

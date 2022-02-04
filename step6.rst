@@ -12,8 +12,8 @@ Data Management III
 
     .. admonition:: learning-objectives
 
-       - Be able to apply metadata in the discovery environment interface
-       - Be able to share data with other CyVerse users
+       - Apply metadata in the Discovery Environment interface
+       - Share data with other CyVerse users
 
 **Description:**
 
@@ -45,7 +45,7 @@ In this module, we introduce how to apply metadata in the Discovery Environment 
   3. Navigate to the **raw_data** folder inside **tutorial_folder** and select
      (checkbox) the **DE_sample_plants.fas** file uploaded previously.
 
-  4. Under the **More Actions** menu, click on the **`Metadata`** choice.
+  4. Under the **More Actions** menu, click on the **Metadata** choice.
      You will see existing metadata for the file/folder in the Attribute,
      Value, Unit (AVU) format.
 
@@ -66,7 +66,7 @@ In this module, we introduce how to apply metadata in the Discovery Environment 
 *Apply metadata on multiple files in the Discovery Environment*
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-It is possible to add or edit metadata on multiples files in the Discovery Environment by uploading a spreadsheet with this metadata. The spreadsheet can be designed to follow a metadata format or standard, or contain whatever metadata entries you want associated with a set of files. See the |Metadata documentation in the Data Store Guide| for more details.
+It is possible to add or edit metadata on multiple files in the Discovery Environment by uploading a spreadsheet with this metadata. The spreadsheet can be designed to follow a metadata format or standard, or contain whatever metadata entries you want associated with a set of files. See the |Metadata documentation in the Data Store Guide| for more details.
 
 
 **Output/Results**
@@ -79,7 +79,7 @@ It is possible to add or edit metadata on multiples files in the Discovery Envir
       - Example
     * - **DE_sample_plants.fas** with metadata applied.
       - Although the file itself has not been edited, viewing the metadata in
-        the Discovery Enviornment lets you view all annotations you have made
+        the Discovery Environment lets you view all annotations you have made
         to the file.
       - View |DE_sample_plants.fas| with metadata applied (you will need to
         view the file in the Discovery Environment to view the associated
@@ -95,12 +95,10 @@ It is possible to add or edit metadata on multiples files in the Discovery Envir
      CyVerse Data Store.
 
   3. Navigate to the **tutorial_folder** created previously and select
-     (checkbox) the folder. Click the **Share Menu**
+     (checkbox) the folder. Click the **Share** button.
 
   4. In the ‘search for users’ field search for the CyVerse user you wish to
-     share with by searching for their name, or CyVerse username. You may also
-     select ‘Choose from Collaborators’ which will bring up a list of people
-     you have designated as collaborators.
+     share with by searching for their username or email address.
 
   5. Next, under ‘Permissions’ choose what permission you want to grant the
      person you are sharing this file with.
@@ -125,7 +123,7 @@ Self Assessment Questions
 
        .. admonition:: Answer
 
-           Click |DE_sample_plants.fas| to see how it should look and compare your results.
+           Click |DE_sample_plants.fas| to see how it should look and compare your results; click the **More Actions** menu, then **Metadata**. 
 
 
   .. admonition:: Question

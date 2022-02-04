@@ -22,7 +22,7 @@ using CyVerse.
         In the lower-left hand side of the screen, change the version of this
         documentation from cyverse-us to one of the other documentation sets
         developed for this online guide (*cyverse-uk* or *cyverse-at*) to see
-        specifics that apply to those installations.
+        specifics for those installations.
 
 ----
 
@@ -87,11 +87,11 @@ Downloads, access, and services
       - |CyVerse User Portal|
     * - VICE access
       - You must have permission to use Discovery Environment VICE
-        applications, request access on the user portal (under Services)
+        applications; request access on the user portal (under 'Services')
       - |CyVerse User Portal|
     * - Cyberduck
       - Standalone software for upload/download to Data Store
-      - |Download Cyberduck|
+      - Download |Cyberduck|
 
 Platform(s)
 ~~~~~~~~~~~
