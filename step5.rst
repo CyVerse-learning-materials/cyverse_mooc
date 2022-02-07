@@ -14,7 +14,7 @@ Data Management II
 
        - Know how to configure Cyberduck
        - Understand how Cyberduck works
-       - Be able to upload a dataset using Cyberduck
+       - Upload a dataset using Cyberduck
 
 
 **Description:**
