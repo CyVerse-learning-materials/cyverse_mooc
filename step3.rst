@@ -13,13 +13,12 @@ Tour of the Discovery Environment
     .. admonition:: learning-objectives
 
        - Sign up and log in to the Discovery Environment
-       - Familiarize with the major menu items
+       - Learn about the major menu items
        - Create folder for data and analysis
 
 **Description:**
 
-In this module, we will introduce the web interface of the Discovery Environment. This will be done by navigating through all the major menu items and familiarizing what you can do for each menu. Lastly, you will create your own folder for your data and subsequent modules.
-
+This module introduces the web interface of the Discovery Environment. Follow the self-guided tour to navigate through each of the major menu items and learn what you can do in each menu. Lastly, you will create a folder in your home directory for your data and analyses which you can use for subsequent modules.
 ----
 
 
