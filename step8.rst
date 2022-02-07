@@ -162,7 +162,7 @@ happen at increased speed. To complete our analyses, we will install the |ape pa
        library(ape)
 
        #Read in the aligned DNA fasta file
-       alignment <- read.FASTA ("~/work/muscle_output/fasta.aln", type="DNA")
+       alignment <- read.FASTA ("~/work/data/input/muscle_output/fasta.aln", type="DNA")
 
        # Create a distance matrix for the sequences
        dist_mtrx <- dist.dna(alignment)
@@ -174,7 +174,10 @@ happen at increased speed. To complete our analyses, we will install the |ape pa
        plot.phylo(nj_tree)
 
        # save the tree to a file
-       write.tree(nj_tree, file = "~/work/tree.newick")
+       write.tree(nj_tree, file = "~/work/data/output/tree.newick")
+
+       #OR save to your CyVerse Data Store directly in the file browser
+       write.tree(nj_tree, file = "~/work/home/YOUR_CYVERSE_USERNAME/tutorial_folder/rocker_output/tree.newick")
 
   2. You should have visualized the resulting tree and also created the file
      ‘tree.newick’ in your work directory.
