@@ -19,7 +19,6 @@ Tour of the Discovery Environment
 **Description:**
 
 This module introduces the web interface of the Discovery Environment. Follow the self-guided tour to navigate through each of the major menu items and learn what you can do in each menu. Lastly, you will create a folder in your home directory for your data and analyses which you can use for subsequent modules.
-----
 
 
 *Self-guided Discovery Environment Tour*
