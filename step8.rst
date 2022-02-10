@@ -268,7 +268,7 @@ Self Assessment Questions
        .. admonition:: Answer
 
           Correct answer is D, you must request separate access to use VICE at
-          the |user portal|. There is a default 48-hour run time but you can
+          the |services panel|. There is a default 48-hour run time but you can
           extend your time by requesting this in the Analysis view for the
           launched application.
 
