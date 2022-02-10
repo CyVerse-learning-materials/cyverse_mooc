@@ -34,7 +34,6 @@ that allows us to complete our goal of visualizing a phylogenetic tree.
      saving it to a file.
   3. Save our work to the Data Store and terminate the application.
 
-
 .. tip::
 
    **Why use VICE?**
@@ -50,6 +49,11 @@ that allows us to complete our goal of visualizing a phylogenetic tree.
    work is often done using tools like R and RStudio, or other programing tools
    such as Jupyter. Hence VICE!
 
+.. raw:: html
+
+           <div class="video-container">
+           <iframe width="560" height="315" src="https://www.youtube.com/embed/PPFD7z4XOVc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+           </div>
 
 ----
 

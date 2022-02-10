@@ -125,9 +125,9 @@
 
    <a href="https://learning.cyverse.org/projects/data_store_guide/en/latest/step1.html#download-and-first-time-configuration-of-cyberduck" target="blank">Configure Cyberduck</a>
 
-.. |SUBSTITUTION_NAME| raw:: html
+.. |Fair Data Assessment Tool| raw:: html
 
-   <a href="URL" target="blank">LINK_NAME</a>
+   <a href="https://ardc.edu.au/resources/working-with-data/fair-data/fair-self-assessment-tool/" target="blank">Fair Data Assessment Tool</a>
 
 .. |SUBSTITUTION_NAME| raw:: html
 

@@ -20,7 +20,14 @@ Data Management II
 **Description:**
 In this module, we discuss how you can upload and download your dataset(s) in the Discovery Environment. This is done using Cyberduck, a 3rd party software that connects your local computer to the Data Store to enable drag-and-drop download and upload of data.
 
+.. raw:: html
 
+           <div class="video-container">
+           <iframe width="560" height="315" src="https://www.youtube.com/embed/RjvoF3i7zNE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+           </div>
+
+----
 **Input Data:**
 
 .. list-table::

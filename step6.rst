@@ -19,6 +19,11 @@ Data Management III
 
 In this module, we introduce how to apply metadata in the Discovery Environment and demonstrate how to share data with other CyVerse users.
 
+       .. raw:: html
+
+           <div class="video-container">
+           <iframe width="560" height="315" src="https://www.youtube.com/embed/shqShSoTOW8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+           </div>
 ----
 
 **Input Data:**
@@ -123,7 +128,7 @@ Self Assessment Questions
 
        .. admonition:: Answer
 
-           Click |DE_sample_plants.fas| to see how it should look and compare your results; click the **More Actions** menu, then **Metadata**. 
+           Click |DE_sample_plants.fas| to see how it should look and compare your results; click the **More Actions** menu, then **Metadata**.
 
 
   .. admonition:: Question

@@ -32,12 +32,12 @@ different CyVerse installations work.
 .. 	#### Comment: Step title should be descriptive (i.e. Cleaning Read data) ###
 
 
-1. Watch the video for this section and complete the self-assessment questions.
+Watch the video for this section and complete the self-assessment questions.
 
        .. raw:: html
 
            <div class="video-container">
-           <iframe width="560" height="315" align="center" src="https://www.youtube.com/embed/XLBpway_jG8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+           <iframe width="560" height="315" src="https://www.youtube.com/embed/m5kokzO88E8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
            </div>
 
 
