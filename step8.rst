@@ -240,48 +240,38 @@ Self Assessment Questions
   .. admonition:: Question
        :class: admonition-question
 
-       Q1. Question
+       Q1. What kind of applications are supported in VICE?
 
-       A. Choice A
-       B. Choice B
-       C. Choice C
-       D. Choice C
+       A. Applications with their own graphical interface
+       B. Open-source applications
+       C. Applications that have interactive visualizations
+       D. All of the above
 
 
        .. admonition:: Answer
 
-          Correct answer is ANSWER
+          Correct answer is D
 
 
   .. admonition:: Question
        :class: admonition-question
 
-       Q2. Question
+       Q2. Which of the following are restrictions on using VICE?
 
-       A. Choice A
-       B. Choice B
-       C. Choice C
-       D. Choice C
-
-
-       .. admonition:: Answer
-
-          Correct answer is ANSWER
-
-  .. admonition:: Question
-       :class: admonition-question
-
-       Q3. Question
-
-       A. Choice A
-       B. Choice B
-       C. Choice C
-       D. Choice C
+       A. You must request access on the CyVerse user portal
+       B. VICE applications have a 48-hour runtime limit
+       C. You must install VICE applications yourself
+       D. A and B
+       E. C only
 
 
        .. admonition:: Answer
 
-          Correct answer is ANSWER
+          Correct answer is D, you must request separate access to use VICE at
+          the |user portal|. There is a default 48-hour run time but you can
+          extend your time by requesting this in the Analysis view for the
+          launched application.
+
 ----
 
 **Fix or improve this documentation**
