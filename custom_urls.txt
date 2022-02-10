@@ -47,7 +47,9 @@
     :width: 300
     :height: 600
 
-
+.. |readthedocs| image:: ./img/readthedocs.png
+    :width: 300
+    :height: 275
 
 .. |Original App documentation muscle| raw:: html
 

@@ -19,6 +19,8 @@ using CyVerse.
   .. tip::
         **See other versions of this documentation (CyVerse UK and CyVerse Austria)**
 
+        |readthedocs|
+
         In the lower-left hand side of the screen, change the version of this
         documentation from cyverse-us to one of the other documentation sets
         developed for this online guide (*cyverse-uk* or *cyverse-at*) to see
@@ -42,7 +44,7 @@ Who to contact if this guide needs fixing. You can also email
       - CyVerse / University of Arizona
       - culshawmaurer@arizona.edu
     * - Jason Williams
-      - CyVerse / Cold Spring Harbor Laboratories
+      - CyVerse / Cold Spring Harbor Laboratory
       - williams@cshl.edu
     * - Tyson Lee Swetnam
       - CyVerse / University of Arizona
