@@ -20,7 +20,7 @@ use for subsequent modules.
 
 ## Self-guided Discovery Environment Tour
 
-1.  Sign up and log into the CyVerse [Discovery Environment](https://de.cyverse.org).
+1.  Sign up and log into the CyVerse [![DE](assets/de/logos/deIcon.png){width="20"}](https://de.cyverse.org/data){target=_blank} [Discovery Environment](https://de.cyverse.org/de){target=_blank}.
 
 2.  Familiarize with platform by hovering and clicking on the different
     options:
@@ -31,31 +31,53 @@ use for subsequent modules.
 
 3.  On the left-hand sidebar, click on the following to see what is available:
 
-    a.  **Home** - Discovery Environment dashboard
-    b.  **Data** - Interface to the Data Store including your personal and shared data
-    c.  **Apps** - Applications (including VICE interactive applications)
-    d.  **Analyses** - Status and history of analysis jobs
-    e.  **Cloud shell** - Quicklaunch of a Linux shell
-    f.  **Teams** - Organize collaborators and sharing
-    g.  **Collections** - Public collections of applications and data
-    h.  **Help** - Help and support
+[home]: ../assets/de/menu_items/homeIcon.svg
+[data]: ../assets/de/menu_items/dataIcon.svg
+[apps]: ../assets/de/menu_items/appsIcon.svg
+[analysis]: ../assets/de/menu_items/analysisIcon.svg
+[shell]: ../assets/de/menu_items/webshellIcon.svg
+[team]: ../assets/de/menu_items/teamsIcon.svg
+[bank]: ../assets/de/menu_items/bank.svg
+[help]: ../assets/de/menu_items/helpIcon.svg
+
+    ![][home]{width=20} **Home** - Dashboard
+
+    ![][data]{width=25} **Data** - Interface to the Data Store, including your personal and shared data
+
+    ![][apps]{width=20} **Apps** - Applications (including VICE interactive applications)
+
+    ![][analysis]{width=20} **Analyses** - Status and history of analysis jobs
+
+    ![][shell]{width=20} **Cloud shell** - Quicklaunch of a Linux shell
+
+    ![][team]{width=20} **Teams** - Organize collaborators and sharing
+
+    ![][bank]{width=20} **Collections** - Public collections of applications and data
+
+    ![][help]{width=20} **Help** - Help and support
+
+    [![DE Menu](assets/de/navigation.png){width="150"}](https://de.cyverse.org/data){target=_blank} 
     
 ??? Tip
     
-    You can expand the navigation side bar for a detailed description of views in the Discovery Environment.
+    You can expand the navigation side bar for a detailed description of views in the Discovery Environment by clicking on the :material-bars:
 
 4.  Go back to the Data menu and familiarize with the options:
 
-    a.  Your home folder
-    b.  "Shared with me" folder
-    c.  "Community Data" folder
+    a.  Your folder in Data ![][data]{width=25}
+
+    b.  Click on the "Shared with me" folder
+
+    c.  Then select "Community Data" folder
+
     d.  "Trash"
 
 
 ??? success "Try it!"
 
     In your home folder create a folder named `tutorial_folder`.
-    Inside that folder create two additional folders: `raw_data/` and `results/`.
+
+    Inside that folder create two additional folders: `raw_data/` and `results/`
 
 ------------------------------------------------------------------------
 

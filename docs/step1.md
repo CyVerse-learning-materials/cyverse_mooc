@@ -25,21 +25,17 @@ CyVerse account and find more information in the Learning Center.
 
 ## Create a CyVerse Account
 
-**Instructions for CyVerse USA**
+- Go to [![User](assets/cyverse_ball_2022.png){width="15"}](https://user.cyverse.org/){target=_blank} [User Portal](https://user.cyverse.org){target=_blank}
 
-Create your CyVerse account:
+- Click the "Sign Up" button and fill out personal information as prompted
 
 - We recommend using an institutional email address (e.g., ending with .edu, .org, or .gov)
 
-1. Go to <https://user.cyverse.org>
-
-2. Click the "Sign Up" button and fill out information as prompted
-
-3. 
+- Please add your [![ORCID](assets/240px-ORCID_iD.png){width="15"}](https://orcid.org){target=_blank} [ORCID](https://orcid.org){target=_blank}. If you don't have an ORCID, get one today!
 
 ## Access and Search the CyVerse Learning Account
 
-- Go to
+- Go to [![Learning](assets/cyverse_ball_2022.png){width="15"}](https://learning.cyverse.org/){target=_blank} [Learning Center](https://learning.cyverse.org){target=_blank}
 - Explore the menu items on the sidebar
 
     :   -   Quick Start Guides will help you with quick, specific tasks
@@ -48,10 +44,14 @@ Create your CyVerse account:
         -   Tutorials are start-to-finish lessons on accomplishing
             certain analyses and tasks using CyVerse
 
--   To access UK/Austria specific versions of the Learning Center, go to
-    the bottom left corner of the Learning Center home page, and click
-    on the v:cyverse-usa icon. From here, you can select the version of
-    the documentation from the menu.
+??? Tip
+ 
+    **See other versions of this documentation (CyVerse UK and CyVerse Austria)**
+    In the lower-left hand side of the screen, change the version of this
+    documentation from cyverse-us to one of the other documentation sets
+    developed for this online guide (*cyverse-uk* or *cyverse-at*) to see
+    specifics for those installations.
+
 
 ------------------------------------------------------------------------
 
@@ -76,14 +76,6 @@ Create your CyVerse account:
     ??? answer
 
         **False** Tutorials are start-to-finish lessons on accomplishing certain analyses and tasks, while Platform Guides are in-depth guides of each CyVerse platform.
-
-??? Tip
- 
-    **See other versions of this documentation (CyVerse UK and CyVerse Austria)**
-    In the lower-left hand side of the screen, change the version of this
-    documentation from cyverse-us to one of the other documentation sets
-    developed for this online guide (*cyverse-uk* or *cyverse-at*) to see
-    specifics for those installations.
 
 -----------------------------------------------------------------------
 

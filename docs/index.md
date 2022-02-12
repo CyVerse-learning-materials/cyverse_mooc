@@ -38,9 +38,9 @@ following services/software*
 
 | Prerequisite | Preparation Notes | Link/Download |
 |--------------|-------------------|---------------|
-| CyVerse account |   You will need a CyVerse account to complete this exercise |
-  VICE Access | You must have permission to use Discovery Environment VICE applications; request access on the user portal (under 'Services') | |
-| CyberDuck | Standalone software for upload/download to Data Store |    Download |
+| CyVerse account | You will need a CyVerse account to complete this exercise | [User Portal](https://user.cyverse.org){target=_blank} |
+  VICE Access | You must have permission to use Discovery Environment VICE applications; request access on the user portal (under 'Services') | [Request Access](https://user.cyverse.org/services){target=_blank} |
+| CyberDuck | 3rd party software for upload/download to Data Store | [Download Windows & Mac OS X only](https://cyberduck.io){target=_blank} |
 
 ### Platform(s)
 
@@ -48,19 +48,17 @@ following services/software*
 
 | Platform | Interface | Link  | Platform Tour |
 |----------|-----------|-------|---------------|
-| Data Store              
-| GUI/Command line             
-| Discovery Environment  |
-| Web/Point-and-click          
+| [![DS](assets/data_store/datastore-icon.png){width="10"}](https://de.cyverse.org/data){target=_blank} [Data Store](https://de.cyverse.org/data){target=_blank} | GUI & CLI | [Data Store](https://cyverse.org/data-store){target=_blank} | [Data Store Guide]() |              
+| [![DE](assets/de/logos/deIcon.png){width="20"}](https://de.cyverse.org/data){target=_blank} [Discovery Environment](https://de.cyverse.org/de){target=_blank} | GUI | [DE](https://cyverse.org/discovery-environment) | [DE Guide](){target=_blank} |         
 
 ### Application(s) used
 
 **Discovery Environment App(s):**
 
-| App Name | Version | Description | App link | Notes/other links |
-|----------|---------|-------------|----------|-------------------| 
-| Muscle | 3.8.31 | Multiple sequence aligner | | |              
-| RStudio Verse | Latest | Rocker-Project RStudio |  | |               
+| App Name | Version | Description | App Link | Notes/Other |
+|----------|---------|-------------|----------|-------|
+| Muscle | 3.8.31 | [Multiple Sequence Alignment](https://www.ebi.ac.uk/Tools/msa/muscle/){target=_blank} | <a href="https://de.cyverse.org/apps/de/9b41c9e4-5031-4a49-b1cb-c471335df16e/launch" target="_blank"><img src="https://img.shields.io/badge/Muscle-3.8.31-lightblue?style=plastic"></a> | [MUSCLE Manual](https://drive5.com/muscle/manual/){target=_blank}        
+| RStudio Verse | Latest | [Rocker-Project RStudio](https://rocker-project.org/images){target=_blank} | <a href="https://de.cyverse.org/apps/de/48b6e7ae-8b64-11ec-92dc-008cfa5ae621/launch" target="_blank"><img src="https://img.shields.io/badge/Verse-latest-blue?style=plastic&logo=rstudio"></a> | [CyVerse Docker Image](https://https://github.com/cyverse-vice/rstudio-verse)
 
 ??? Tip
  
