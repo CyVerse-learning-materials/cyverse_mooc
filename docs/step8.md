@@ -115,7 +115,7 @@ Once you have your RStudio session, it will behave the same as a RStudio session
 
 Some potential benefits of running RStudio in VICE include more processing power (especially if you choose additional resources at launch -- see the Advanced Settings).
 
-Since this session is running on CyVerse hardware, transferring large data will also happen at increased speed. To complete our analyses, we will install the and compute a phylogenetic tree.
+Since this session is running on CyVerse hardware, transferring large data will also happen at increased speed. To complete our analyses, we will install the [`ape` package](https://cran.r-project.org/web/packages/ape/index.html){target=_blank} and compute a phylogenetic tree.
 
 ??? tip "Using RStudio"
 
@@ -123,7 +123,7 @@ Since this session is running on CyVerse hardware, transferring large data will 
 
 ??? tip "Locating your files in RStudio"
 
-    The data we loaded at launch of the VICE application will be in the 'work' directory of the home folder.
+    The data we loaded at launch of the VICE application will be in the `/home/rstudio/work/data/input` directory.
 
 From the R console, enter the following commands:
 
@@ -159,7 +159,11 @@ Once you have completed your work, you can save your work to the Data Store and 
 
 ??? tip "Extending Analysis Time"
 
-    VICE applications typically have a 48-hour run time. Unless you request an extension, your application will automatically save outputs. It is recommended that you save your work to the Data Store before time expires.
+    VICE applications typically have a 48-hour run time. 
+    
+    Unless you request an extension, your application will save data in the `~/work/data/outputs` folder to your `analyses/` folder when it terminates. 
+    
+    It is recommended that you save your work to the Data Store before time expires.
 
 1.  In the Analyses pane of the Discovery Environment, select your unning RStudio VICE application.
 
@@ -171,9 +175,9 @@ Once you have completed your work, you can save your work to the Data Store and 
 
     You don't have to terminate your analyses to save your work to the Data Store. 
     
-    From within the RStudio environment using the terminal, you can use iCommands to transfer data (See on iCommands). 
+    From within the RStudio environment using the terminal, you can use iCommands to transfer data (See Data Store Guide on iCommands). 
 
-    RStudio itself allows you to download files and plots directly to your local computer. Use the Export features present in the file pane.
+    RStudio does allow you to download files and plots directly back to your local computer. Use the "Export" features present in the file pane.
 
 ------------------------------------------------------------------------
 
