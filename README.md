@@ -1,5 +1,7 @@
 # Example MkDocs deploy GitHub Action
 
+[https://cyverse-learning-materials.github.io/cyverse_mooc](https://cyverse-learning-materials.github.io/cyverse_mooc) -- Material for MkDocs Rendered pages
+
 This is a template that uses the [MkDocs deploy](https://github.com/marketplace/actions/deploy-mkdocs) GitHub action.
 
 ```
