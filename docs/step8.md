@@ -91,7 +91,7 @@ To minimize inappropriate use, VICE is a restricted service, currently accessibl
 
 3.  Use this Quick Launch link <a href="https://de.cyverse.org/apps/de/48b6e7ae-8b64-11ec-92dc-008cfa5ae621/launch" target="_blank"><img src="https://img.shields.io/badge/Verse-latest-blue?style=plastic&logo=rstudio"></a> or click on [![][apps]{width=20}](https://de.cyverse.org/apps){target=_blank} [Apps](https://de.cyverse.org/apps){target=_blank} to launch thev featured **Rocker RStudio Latest** App. You can also use the DE search bar to search for this application in the Apps category.
 
-4.  Launch the application and adjust the following:
+4. Launch the application and adjust the following:
     
     Under "Analysis Info", for **Output Folder** click **Browse** and navigate to and select the `rocker_output` created above. click **Next**;
 
@@ -125,7 +125,7 @@ Since this session is running on CyVerse hardware, transferring large data will 
 
     The data we loaded at launch of the VICE application will be in the 'work' directory of the home folder.
 
-1.  From the R console, enter the following commands:
+From the R console, enter the following commands:
 
 ``` {.sourceCode .R}
 # install and load the needed R library
@@ -151,12 +151,11 @@ write.tree(nj_tree, file = "~/work/data/output/tree.newick")
 write.tree(nj_tree, file = "~/work/home/YOUR_CYVERSE_USERNAME/tutorial_folder/rocker_output/tree.newick")
 ```
 
-2.  You should have visualized the resulting tree and also created the file `tree.newick` in your work directory.
-
+You should have visualized the resulting tree and also created the file `tree.newick` in your work directory.
 
 ## Terminating your VICE session and saving work to the Data Store
 
-Once you have completed your work, you can save your work to the Data.Store and terminate your VICE application.
+Once you have completed your work, you can save your work to the Data Store and terminate your VICE application.
 
 ??? tip "Extending Analysis Time"
 
