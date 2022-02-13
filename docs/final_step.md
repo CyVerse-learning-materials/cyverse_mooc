@@ -55,7 +55,7 @@ Search for an answer: or
 -   Search for an answer:
 -   Ask us for help: click on the lower right-hand side of the page
 -   Report an issue or submit a change:
--   Send feedback: [learning\@CyVerse.org](learning@CyVerse.org)
+-   Send feedback: [learning@CyVerse.org](learning@CyVerse.org)
 
 ------------------------------------------------------------------------
 
