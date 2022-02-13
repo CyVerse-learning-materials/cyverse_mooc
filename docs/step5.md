@@ -23,9 +23,9 @@
 
 ## Setting up Cyberduck
 
-[bookmark]: ../assets/cyberduck/cyberduck_bookmark.png
-[config]: ../assets/cyberduck/cyberduck_config.png
-[window]: ../assets/cyberduck/cyberduck_window.png
+[bookmark]: assets/cyberduck/cyberduck_bookmark.png
+[config]: assets/cyberduck/cyberduck_config.png
+[window]: assets/cyberduck/cyberduck_window.png
 
 1.  Download and install [CyberDuck](https://cyberduck.io){target=_blank} for your operating system.
 

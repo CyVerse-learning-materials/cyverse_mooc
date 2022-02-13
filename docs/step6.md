@@ -54,9 +54,11 @@ The spreadsheet can be designed to follow a metadata format or standard, or cont
 
 ## Output/Results
 
-  Output                                              Description                                                                                                                                                Example
-  --------------------------------------------------- ---------------------------------------------------------------------------------------------------------------------------------------------------------- ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  **DE\_sample\_plants.fas** with metadata applied.   Although the file itself has not been edited, viewing the metadata in the Discovery Environment lets you view all annotations you have made to the file.   View with metadata applied (you will need to view the file in the Discovery Environment to view the associated metadata; select the file and click **More Actions** and then **Metadata**).
+| Output | Description | Example |
+|--------|-------------|---------|
+| `DE_sample_plants.fas` | | |
+
+Although the file itself has not been edited, viewing the metadata in the Discovery Environment lets you view all annotations you have made to the file.   View with metadata applied (you will need to view the file in the Discovery Environment to view the associated metadata; select the file and click **More Actions** and then **Metadata**).
 
 ## Data Sharing in the Discovery Environment
 

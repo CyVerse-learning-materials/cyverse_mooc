@@ -1,64 +1,35 @@
-\_
-
-\_ [Learning Center Home](http://learning.cyverse.org/)
-
-Conclusion and Advanced Applications
-====================================
+# Conclusion and Advanced Applications
 
 **Description:**
 
+This self-guided course has shown you how to use the Data Store and Discovery Environment.
+
 ------------------------------------------------------------------------
 
-**Input Data:**
+## Advanced Applications
 
-  Input   Description   Example
-  ------- ------------- ---------
-                        
-
-### *Descriptive Steps*
-
-1.  Replace the text below with your own
-2.  Use the image src in this link to link to
-    -   A DE App:
-    -   An Atmosphere image:
-3.  Click `&Cancel`{.interpreted-text role="guilabel"} to continue is
-    how you can show a button
-4.  Tell the user to choose an appropriate value for a setting
-
-    ::: {.admonition}
-    sample-data
-
-    Tell them if they are following with our sample data exactly what
-    value to choose
-    :::
-
-**Output/Results**
-
-  Output   Description   Example
-  -------- ------------- ---------
-                         
+The CyVerse Learning Center supports additional Guides and Manuals on extending your use of CyVerse. 
 
 ------------------------------------------------------------------------
 
 **Summary**
 
-------------------------------------------------------------------------
+You should now know how to:
 
-### Additional information, help
+Use the Cyverse User Portal, Discovery Environment (Executable and Interactive Applications), Transferring Data to and from the Data Store
 
-Search for an answer: or
-
-------------------------------------------------------------------------
+-----------------------------------------------------------------------
 
 **Fix or improve this documentation**
 
--   Search for an answer:
--   Ask us for help: click on the lower right-hand side of the page
--   Report an issue or submit a change:
--   Send feedback: [learning@CyVerse.org](learning@CyVerse.org)
-
+  - Search for an answer:
+     [CyVerse Learning Center](https://learning.cyverse.org){target=_blank}
+  - Ask us for help:
+    click the Intercom icon ![Intercom](assets/intercom.png){ width="25" } on the lower right-hand side of the page
+  - Report an issue or submit a change:
+    [Github Repo Link](https://github.com/cyverse-learning-materials/){target=_blank}
+  - Send feedback: <tutorials@cyverse.org>
+  
 ------------------------------------------------------------------------
 
-\_ [Learning Center Home](http://learning.cyverse.org/)
-
-
+[Learning Center Home](http://learning.cyverse.org/)

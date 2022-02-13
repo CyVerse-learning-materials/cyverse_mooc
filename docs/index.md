@@ -1,6 +1,6 @@
-# **Introduction to CyVerse Self-Guided Course** 
+# **CyVerse Self-Guided Course** 
 
-This is a short self-guided course that will take you through the basics of using CyVerse USA.
+This self-guided course will take you through the basics of using CyVerse USA.
 
 ------------------------------------------------------------------------
 

@@ -31,14 +31,14 @@ use for subsequent modules.
 
 3.  On the left-hand sidebar, click on the following to see what is available:
 
-[home]: ../assets/de/menu_items/homeIcon.svg
-[data]: ../assets/de/menu_items/dataIcon.svg
-[apps]: ../assets/de/menu_items/appsIcon.svg
-[analysis]: ../assets/de/menu_items/analysisIcon.svg
-[shell]: ../assets/de/menu_items/webshellIcon.svg
-[team]: ../assets/de/menu_items/teamsIcon.svg
-[bank]: ../assets/de/menu_items/bank.svg
-[help]: ../assets/de/menu_items/helpIcon.svg
+[home]: assets/de/menu_items/homeIcon.svg
+[data]: assets/de/menu_items/dataIcon.svg
+[apps]: assets/de/menu_items/appsIcon.svg
+[analysis]: assets/de/menu_items/analysisIcon.svg
+[shell]: assets/de/menu_items/webshellIcon.svg
+[team]: assets/de/menu_items/teamsIcon.svg
+[bank]: assets/de/menu_items/bank.svg
+[help]: assets/de/menu_items/helpIcon.svg
 
     ![][home]{width=20} **Home** - Dashboard
 

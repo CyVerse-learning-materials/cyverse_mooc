@@ -21,15 +21,15 @@ Here is a link to the [FAIR Data assessment tool](https://ardc.edu.au/resources/
 
 ## Downloading data from the Discovery Environment
 
-[de]: ../assets/de/logos/deIcon.svg
-[home]: ../assets/de/menu_items/homeIcon.svg
-[data]: ../assets/de/menu_items/dataIcon.svg
-[apps]: ../assets/de/menu_items/appsIcon.svg
-[analysis]: ../assets/de/menu_items/analysisIcon.svg
-[shell]: ../assets/de/menu_items/webshellIcon.svg
-[team]: ../assets/de/menu_items/teamsIcon.svg
-[bank]: ../assets/de/menu_items/bank.svg
-[help]: ../assets/de/menu_items/helpIcon.svg
+[de]: assets/de/logos/deIcon.svg
+[home]: assets/de/menu_items/homeIcon.svg
+[data]: assets/de/menu_items/dataIcon.svg
+[apps]: assets/de/menu_items/appsIcon.svg
+[analysis]: assets/de/menu_items/analysisIcon.svg
+[shell]: assets/de/menu_items/webshellIcon.svg
+[team]: assets/de/menu_items/teamsIcon.svg
+[bank]: assets/de/menu_items/bank.svg
+[help]: assets/de/menu_items/helpIcon.svg
 
 ??? Tip "Dropdown Menu"
 
