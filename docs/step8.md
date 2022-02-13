@@ -1,54 +1,37 @@
-\_
+# Interactive Analyses
 
-\_ [Learning Center Home](http://learning.cyverse.org/)
+??? tip "Learning Objectives"
 
-Interactive Analyses
-====================
-
-> ::: {.admonition}
-> learning-objectives
->
-> -   Request VICE access.
-> -   Launch and access VICE application.
-> -   Configure the VICE application and run an analysis.
-> -   Save the outputs of a VICE application to your Data Store.
-> :::
+    - Request VICE access.
+    
+    - Launch and access VICE application.
+  
+    - Configure the VICE application and run an analysis.
+    
+    - Save the outputs of a VICE application to your Data Store.
 
 **Description:**
 
-The Visual Interactive Computing Environment () allows you to work with
-popular interactive data science applications such JupyterLab, RStudio,
-Linux shell and others. In this exercise we will cover a simple
-introductory use case that allows us to complete our goal of visualizing
-a phylogenetic tree.
+The Visual Interactive Computing Environment () allows you to work with popular interactive data science applications such JupyterLab, RStudio, Linux shell and others. In this exercise we will cover a simple introductory use case that allows us to complete our goal of visualizing a phylogenetic tree.
 
 *In this exercise we will:*
 
-> 1.  Launch an RStudio session, loading the sequence alignments created
->     earlier in the course.
-> 2.  Install an R package and create a phylogenetic tree from the
->     alignment, saving it to a file.
-> 3.  Save our work to the Data Store and terminate the application.
+1.  Launch an RStudio session, loading the sequence alignments created earlier in the course.
 
-::: {.tip}
-::: {.admonition-title}
-Tip
-:::
+2.  Install an R package and create a phylogenetic tree from the alignment, saving it to a file.
 
-**Why use VICE?**
+3.  Save our work to the Data Store and terminate the application.
 
-The Discovery Environment excels at running compute intensive analyses
-non-interactively. In other words, once you launch a job in the DE, you
-get an output, but to start a new analysis (for example to tweak
-parameters), you need to relaunch that job, and await new results. This
-style of computing allows you to run large jobs that require lots of
-resources. However, several analyses we'd like to do are interactive --
-we need to visualize and manipulate parameters on the fly -- for
-example, creating a figure where you need to see and adjust the results
-of an upstream analysis. This kind of work is often done using tools
-like R and RStudio, or other programing tools such as Jupyter. Hence
-VICE!
-:::
+??? tip "Why use VICE"
+
+    The Discovery Environment excels at running compute intensive analyses non-interactively. 
+    
+    In other words, once you launch a job in the DE, you get an output, but to start a new analysis (for example to tweak parameters), you need to relaunch that job, and await new results. 
+    
+    This style of computing allows you to run large jobs that require lots of resources. However, several analyses we'd like to do are interactive -- we need to visualize and manipulate parameters on the fly -- for example, creating a figure where you need to see and adjust the results of an upstream analysis. 
+    
+    This kind of work is often done using tools like R and RStudio, or other programing tools such as Jupyter. Hence VICE!
+
 
 <div class="video-container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PPFD7z4XOVc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -56,33 +39,22 @@ VICE!
 
 ------------------------------------------------------------------------
 
-**Input Data:**
+## Input Data
 
-+-----------------------+-----------------------+-----------------------+
-| Input                 | Description           | Example               |
-+=======================+=======================+=======================+
-| -   A folder of logs  | The logs folder are   | View the example      |
-| -   clstalw.aln       | log files returned    | folder.               |
-| -   fasta.aln         | with every Discovery  |                       |
-| -   phylip\_interleav | Environment analyses. |                       |
-| ed.aln                | These can be useful   |                       |
-| -   phylip\_sequentia | for diagnosing failed |                       |
-| l.aln                 | analyses. All other   |                       |
-|                       | files are outputs of  |                       |
-|                       | the Muscle software   |                       |
-|                       | and contain multiple  |                       |
-|                       | sequence alignments   |                       |
-|                       | in a variety of       |                       |
-|                       | common formats.       |                       |
-+-----------------------+-----------------------+-----------------------+
+| Location | File | Example |
+|----------|------|---------|
+| `muscle_output/`  | logs folder | [View the example `muscle_output/`](https://datacommons.cyverse.org/browse/iplant/home/shared/cyverse_training/cyverse_mooc/tutorial_folder/results/muscle_output){target=_blank} |
+| `clstalw.aln` | |
+| `fasta.aln` | | 
+| `phylip_interleaved.aln` | | 
+| `phylip_sequential.aln` | |
 
-*Getting VICE Access*
----------------------
+## Getting VICE Access
 
-To minimize inappropriate use, VICE is a restricted service, currently
-accessible from CyVerse US. You must request access to use.
 
-> 1.  Visit the and access the ; look for **DE -- VICE** and select the
+To minimize inappropriate use, VICE is a restricted service, currently accessible from CyVerse US. You must request access to use.
+
+1.  Visit the and access the ; look for **DE -- VICE** and select the
 >     **REQUST ACCESS** link.
 >
 >     ::: {.tip}

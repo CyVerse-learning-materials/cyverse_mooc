@@ -28,11 +28,17 @@ In this module, we introduce executable analyses in the CyVerse Discovery Enviro
 
 ## Find a Tool and Launch an Analysis
 
+[de]: ../assets/de/logos/deIcon.svg
+[home]: ../assets/de/menu_items/homeIcon.svg
+[data]: ../assets/de/menu_items/dataIcon.svg
+[apps]: ../assets/de/menu_items/appsIcon.svg
+[analysis]: ../assets/de/menu_items/analysisIcon.svg
+
 1. If necessary, log into the [![][de]{width=25}](https://de.cyverse.org){target=_blank} [Discovery Environment](https://de.cyverse.org){target=_blank}.
 
 2. Click the [![][data]{width=25}](https://de.cyverse.org/data/){target=_blank} [Data Icon](https://de.cyverse.org/data){target=_blank} and navigate to your `results/` folder in the` tutorial_folder/`; click the (Add Folder button) and create a new folder called `muscle_output/` inside your tutorial folder.
 
-3.  Click ![][apps]{width=20} **Apps** - Applications (including VICE interactive applications); search for "**Muscle-3.8.31**"; Click on the application name to open the application.
+3.  Click [![][apps]{width=20}](https://de.cyverse.org/apps){target=_blank} [Apps](https://de.cyverse.org/apps){target=_blank} - Applications (including VICE interactive applications); search for "**Muscle-3.8.31**"; Click on the application name to open the application.
 
 4.  Under "Analysis Info", for **Output Folder** click **Browse** and
     navigate to and select the **muscle\_output** created above. No
@@ -46,7 +52,7 @@ In this module, we introduce executable analyses in the CyVerse Discovery Enviro
 
 8.  Click **Launch Analysis**.
 
-9.  You will receive a notification and be redirected to the Analyses page.
+9.  You will receive a notification and be redirected to the ![][analysis]{width=20} [Analyses](https://de.cyverse.org/analyses){target=_blank} page.
 
 10. When Muscle analysis has the status **Completed**, you may click the folder icon next to the analysis name, to navigate to and browse the outputs for this analysis. You may need to refresh your web browser    to see the updated status.
 
