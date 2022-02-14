@@ -91,6 +91,8 @@ You should now be connected to the Data Store and viewing the contents of your h
     **D** To view apps and tools on the Discovery Environment
 
     ??? Answer
+        
+        Correst answer is **B**
 
 
 ??? Question "Which of these will you need to configure and access the datastore using Cyberduck? Select all that apply:"
