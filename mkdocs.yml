@@ -52,7 +52,7 @@ theme:
         icon: material/toggle-switch
         name: Switch to light mode
   font:
-    text: Montserrat
+    text: Roboto
     code: Regular
   favicon: assets/favicon.png
   icon:
