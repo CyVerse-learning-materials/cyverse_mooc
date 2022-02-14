@@ -7,7 +7,7 @@ site_description: 'Introduction to CyVerse Self-guided Course'
 site_author: 'CyVerse USA & CyVerse Austria'
 site_url: https://CyVerse-learning-materials.io/cyverse_mooc/
 
-edit_uri: edit/mkdocs/docs
+edit_uri: edit/mkdocs-usa/docs
 
 # Copyright
 copyright: 'Copyright &copy; 2022 CyVerse USA'
