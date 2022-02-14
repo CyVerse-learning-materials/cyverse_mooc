@@ -90,7 +90,8 @@ extra:
   version:
     method: mike
     default: usa
-
+plugins:
+  - mike
 #  analytics:
 #    provider: google
 #    property: 
