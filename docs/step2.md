@@ -35,7 +35,7 @@ questions.
         It's the combination of computing and data management tools along with training and support. 
         Making these tools work nicely together and giving you the training and help you need to get work done is the goal for CyVerse.
 
-??? Question You need to know how to use the command line to use CyVerse
+??? Question "You need to know how to use the command line to use CyVerse"
 
     **True or False**
 
