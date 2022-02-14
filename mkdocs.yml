@@ -89,6 +89,7 @@ extra:
 # setting up versioning with mike
   version:
     method: mike
+    default: usa
 
 #  analytics:
 #    provider: google
