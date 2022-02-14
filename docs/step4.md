@@ -44,7 +44,7 @@ Here is a link to the [FAIR Data assessment tool](https://ardc.edu.au/resources/
 4. From the **Community Data** directory, scroll down until you find `cyverse_training/` folder, and click on it. Then navigate to the `cyverse_mooc`/ folder, then `muscle_3_8_31/01_muscle_input`, which contains example data. This is the full file path, which should show up as part of your URL:
 
 ```
-/iplant/home/shared/cyverse_training/cyverse_mooc/muscle_3_8_31/01_muscle_input]
+/iplant/home/shared/cyverse_training/cyverse_mooc/muscle_3_8_31/01_muscle_input/
 ```
 
 5.  Click (Select) the checkbox next to the `DE_sample_plants.fas` file to select it.
