@@ -52,7 +52,7 @@ In this module, we introduce executable analyses in the CyVerse Discovery Enviro
 
 8.  Click **Launch Analysis**.
 
-9.  You will receive a notification and be redirected to the ![][analysis]{width=20} [Analyses](https://de.cyverse.org/analyses){target=_blank} page.
+9.  You will receive a notification and be redirected to the [![][analysis]{width=20}](https://de.cyverse.org/analyses){target=_blank} [Analyses](https://de.cyverse.org/analyses){target=_blank} page.
 
 10. When Muscle analysis has the status **Completed**, you may click the folder icon next to the analysis name, to navigate to and browse the outputs for this analysis. You may need to refresh your web browser    to see the updated status.
 
