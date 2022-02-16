@@ -33,7 +33,7 @@ CyVerse account and find more information in the Learning Center.
 
 - Please add your [![ORCID](assets/240px-ORCID_iD.png){width="15"}](https://orcid.org){target=_blank} [ORCID](https://orcid.org){target=_blank}. If you don't have an ORCID, get one today!
 
-## Access and Search the CyVerse Learning Account
+## Access and Search the CyVerse Learning Center
 
 - Go to [![Learning](assets/cyverse_ball_2022.png){width="15"}](https://learning.cyverse.org/){target=_blank} [Learning Center](https://learning.cyverse.org){target=_blank}
 - Explore the menu items on the sidebar
