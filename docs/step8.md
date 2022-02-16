@@ -12,7 +12,7 @@
 
 **Description:**
 
-The Visual Interactive Computing Environment () allows you to work with popular interactive data science applications such JupyterLab, RStudio, Linux shell and others. In this exercise we will cover a simple introductory use case that allows us to complete our goal of visualizing a phylogenetic tree.
+The Visual Interactive Computing Environment [![][vice]{width=30}](https://user.cyverse.org/services){target=_blank} [VICE](https://user.cyverse.org/services){target=_blank} allows you to work with popular interactive data science applications such JupyterLab, RStudio, Linux shell and others. In this exercise we will cover a simple introductory use case that allows us to complete our goal of visualizing a phylogenetic tree.
 
 *In this exercise we will:*
 
