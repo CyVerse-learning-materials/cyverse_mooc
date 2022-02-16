@@ -127,7 +127,7 @@ Since this session is running on CyVerse hardware, transferring large data will 
 
 From the R console, enter the following commands:
 
-``` {.sourceCode .R}
+``` {R title="script.r"}
 # install and load the needed R library
 install.packages("ape")
 library(ape)
