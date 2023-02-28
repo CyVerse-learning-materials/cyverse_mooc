@@ -29,7 +29,7 @@ Who to contact if this guide needs fixing. You can also email <learning@cyverse.
 * [Interactive Analyses](step8.md) 
 * [Conclusion and Advanced Applications](final_step.md) 
 
-## Perequisites
+## Prerequisites
 
 ### Downloads, access, and services
 
