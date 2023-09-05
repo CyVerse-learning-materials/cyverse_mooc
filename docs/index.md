@@ -10,8 +10,8 @@ Who to contact if this guide needs fixing. You can also email <learning@cyverse.
 
 | Maintainer | Institution | Contact |
 |------------|-------------|---------|
-| Michael Culshaw-Maurer | University of Arizona | <culshawmaurer@arizona.edu> |
-|  Jason Williams | Cold Spring Harbor Laboratory | <williams@cshl.edu> |
+| Michele Cosi | University of Arizona | <cosi@arizona.edu> |
+|  Jeffrey Gillan | University of Arizona | <jgillan@arizona.edu> |
 |  Tyson Lee Swetnam | University of Arizona | <tswetnam@cyverse.org> |
 
 ------------------------------------------------------------------------
@@ -34,13 +34,21 @@ Who to contact if this guide needs fixing. You can also email <learning@cyverse.
 ### Downloads, access, and services
 
 *In order to complete this tutorial you will need access to the
-following services/software*
+following services*
 
 | Prerequisite | Preparation Notes | Link/Download |
 |--------------|-------------------|---------------|
 | CyVerse account | You will need a CyVerse account to complete this exercise | [User Portal](https://user.cyverse.org){target=_blank} |
   VICE Access | You must have permission to use Discovery Environment VICE applications; request access on the user portal (under 'Services') | [Request Access](https://user.cyverse.org/services){target=_blank} |
+
+*You will also need software to transfer data into and out of the Data Store. We recommend using Cyberduck for Mac and Windows users, and iCommands or GoCommandsfor Linux users.*
+
+| Prerequisite | Preparation Notes | Link/Download |
+|--------------|-------------------|---------------|
 | CyberDuck | 3rd party software for upload/download to Data Store | [Download Windows & Mac OS X only](https://cyberduck.io){target=_blank} |
+|iCommands | 3rd party software for upload/download to Data Store | [Download Linux, Mac OS X](https://learning.cyverse.org/ds/icommands/){target=_blank} |
+| gocommands | 3rd party software for upload/download to Data Store | [Download Linux, Mac OS X](https://github.com/cyverse/gocommands){target=_blank} |
+
 
 ### Platform(s)
 
