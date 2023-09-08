@@ -32,4 +32,4 @@ Use the Cyverse User Portal, Discovery Environment (Executable and Interactive A
   
 ------------------------------------------------------------------------
 
-[Learning Center Home](http://learning.cyverse.org/)
+[:material-rocket: Learning Center Home](http://learning.cyverse.org/)

@@ -1,6 +1,6 @@
 # Course Overview
 
-??? Tip "Learning Objectives"
+!!! Tip "Learning Objectives"
 
      - Determine whether this course is right for you.
      - Find documentation on the CyVerse Learning Center
@@ -14,8 +14,6 @@ whether this course is right for you. We then show you how to create a
 CyVerse account and find more information in the Learning Center.
 
 ------------------------------------------------------------------------
-
-**Video:**
 
 > <div class="video-container">
 > <iframe width="600" height="400" src="https://www.youtube.com/embed/q6bFiHBmis0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -65,7 +63,7 @@ CyVerse account and find more information in the Learning Center.
 
     **(C)** .edu, .io, .xyz
 
-    ??? answer
+    ??? success "Answer"
     
         **(A)** .edu, .org, .gov
 
@@ -73,7 +71,7 @@ CyVerse account and find more information in the Learning Center.
 
     **True or False**
 
-    ??? answer
+    ??? success "Answer"
 
         **False** Tutorials are start-to-finish lessons on accomplishing certain analyses and tasks, while Platform Guides are in-depth guides of each CyVerse platform.
 
@@ -91,4 +89,4 @@ CyVerse account and find more information in the Learning Center.
   
 ------------------------------------------------------------------------
 
-[Learning Center Home](http://learning.cyverse.org/)
+[:material-rocket: Learning Center Home](http://learning.cyverse.org/)

@@ -1,13 +1,17 @@
+[de]: assets/de/logos/deIcon.svg
+[home]: assets/de/menu_items/homeIcon.svg
+[data]: assets/de/menu_items/dataIcon.svg
+[apps]: assets/de/menu_items/appsIcon.svg
+[analysis]: assets/de/menu_items/analysisIcon.svg
+[vice]: assets/de/logos/deviceIcon.png
+
 # Interactive Analyses
 
-??? tip "Learning Objectives"
+!!! tip "Learning Objectives"
 
     - Request VICE access.
-    
     - Launch and access VICE application.
-  
     - Configure the VICE application and run an analysis.
-    
     - Save the outputs of a VICE application to your Data Store.
 
 **Description:**
@@ -32,6 +36,7 @@ The Visual Interactive Computing Environment [![][vice]{width=30}](https://user.
     
     This kind of work is often done using tools like R and RStudio, or other programing tools such as Jupyter. Hence VICE!
 
+---
 
 <div class="video-container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PPFD7z4XOVc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -44,19 +49,12 @@ The Visual Interactive Computing Environment [![][vice]{width=30}](https://user.
 | Location | File | Example |
 |----------|------|---------|
 | `muscle_output/`  | logs folder | [View the example `muscle_output/`](https://datacommons.cyverse.org/browse/iplant/home/shared/cyverse_training/cyverse_mooc/tutorial_folder/results/muscle_output){target=_blank} |
-| `clstalw.aln` | |
+| `clstalw.aln` |  `.aln` are multi-alignment files |
 | `fasta.aln` | | 
 | `phylip_interleaved.aln` | | 
 | `phylip_sequential.aln` | |
 
 ## Getting VICE Access
-
-[de]: assets/de/logos/deIcon.svg
-[home]: assets/de/menu_items/homeIcon.svg
-[data]: assets/de/menu_items/dataIcon.svg
-[apps]: assets/de/menu_items/appsIcon.svg
-[analysis]: assets/de/menu_items/analysisIcon.svg
-[vice]: assets/de/logos/deviceIcon.png
 
 To minimize inappropriate use, VICE is a restricted service, currently accessible from CyVerse US. You must request access to use.
 
@@ -183,8 +181,8 @@ Once you have completed your work, you can save your work to the Data Store and 
 
 **Output/Results**
 
-| Output | Description |  Example |
-|--------|-------------|----------|
+| Output | Description |
+|--------|-------------|
 | `tree.newick` |  A Newick-formatted phylogenetic tree file which can visualized using your choice of tools. | |   
 
 ------------------------------------------------------------------------
@@ -201,7 +199,7 @@ Once you have completed your work, you can save your work to the Data Store and 
 
     **D**  All of the above
     
-    ??? answer 
+    ??? Success "Answer" 
         
         Correct answer is **D**
 
@@ -218,7 +216,7 @@ Once you have completed your work, you can save your work to the Data Store and 
 
     **E**  C only
 
-    ??? Answer
+    ??? Success "Answer"
 
         Correct answer is **D**, you must request separate access to use VICE. 
         
@@ -238,4 +236,4 @@ Once you have completed your work, you can save your work to the Data Store and 
   
 ------------------------------------------------------------------------
 
-[Learning Center Home](http://learning.cyverse.org/)
+[:material-rocket: Learning Center Home](http://learning.cyverse.org/)

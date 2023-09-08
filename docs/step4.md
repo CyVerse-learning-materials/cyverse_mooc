@@ -1,26 +1,3 @@
-# Data Management I
-
-??? tip "Learning Objectives"
-
-    -   Describe the components of FAIR data
-    -   Describe the Data Lifecycle
-    -   Download data from the Data Store
-    -   Create a README file and upload it to the Data Store
-
-**Description:**
-
-In this module, we introduce the concepts of FAIR data and the Data Lifecycle and demonstrate how to move data between your computer and the CyVerse Data Store.
-
-Here is a link to the [FAIR Data assessment tool](https://ardc.edu.au/resources/working-with-data/fair-data/fair-self-assessment-tool/){target=_blank} mentioned in the video.
-
-> <div class="video-container">
-> <iframe width="560" height="315" src="https://www.youtube.com/embed/yDptqWLfxXk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-> </div>
-
-------------------------------------------------------------------------
-
-## Downloading data from the Discovery Environment
-
 [de]: assets/de/logos/deIcon.svg
 [home]: assets/de/menu_items/homeIcon.svg
 [data]: assets/de/menu_items/dataIcon.svg
@@ -31,9 +8,35 @@ Here is a link to the [FAIR Data assessment tool](https://ardc.edu.au/resources/
 [bank]: assets/de/menu_items/bank.svg
 [help]: assets/de/menu_items/helpIcon.svg
 
+# Data Management I
+
+!!! tip "Learning Objectives"
+
+    -   Describe the components of FAIR data
+    -   Describe the Data Lifecycle
+    -   Download data from the Data Store
+    -   Create a README file and upload it to the Data Store
+
+**Description:**
+
+In this module, we introduce the concepts of FAIR data and the Data Lifecycle and demonstrate how to move data between your computer and the CyVerse Data Store.
+
+---
+
+> <div class="video-container">
+> <iframe width="560" height="315" src="https://www.youtube.com/embed/yDptqWLfxXk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+> </div>
+
+Here is a link to the [FAIR Data assessment tool](https://ardc.edu.au/resources/working-with-data/fair-data/fair-self-assessment-tool/){target=_blank} mentioned in the video.
+
+
+------------------------------------------------------------------------
+
+## Downloading data from the Discovery Environment
+
 ??? Tip "Dropdown Menu"
 
-    The dropdown menu allows you to navigate between your home directory in the Data Store (i.e. your username), and other CyVerse data collections such as files shared with you (i.e. "Shared with Me"), and files shared by the CyVerse community (i.e."Community Data"). You may also access files located in your "Trash" folder.
+    The dropdown menu (:material-home: `username`)allows you to navigate between your home directory in the Data Store (i.e. your username), and other CyVerse data collections such as files shared with you (i.e. :material-folder-account: "Shared with Me"), and files shared by the CyVerse community (i.e.:octicons-people-16: "Community Data"). You may also access files located in your :fontawesome-solid-trash: "Trash" folder.
 
 1. If necessary, log into the [![][de]{width=25}](https://de.cyverse.org){target=_blank} [Discovery Environment](https://de.cyverse.org){target=_blank}.
 
@@ -41,7 +44,7 @@ Here is a link to the [FAIR Data assessment tool](https://ardc.edu.au/resources/
 
 3. In the top left of the page, you should see your username with a dropdown arrow next to it; Click on your username, then click Community Data in the dropdown menu.
 
-4. From the **Community Data** directory, scroll down until you find `cyverse_training/` folder, and click on it. Then navigate to the `cyverse_mooc`/ folder, then `muscle_3_8_31/01_muscle_input`, which contains example data. This is the full file path, which should show up as part of your URL:
+4. From the **Community Data** directory, scroll down until you find `cyverse_training/` folder, and click on it. Then navigate to the `cyverse_mooc/` folder, then `muscle_3_8_31/01_muscle_input/`, which contains example data. This is the full file path, which should show up as part of your URL:
 
 ```
 /iplant/home/shared/cyverse_training/cyverse_mooc/muscle_3_8_31/01_muscle_input/
@@ -71,7 +74,7 @@ Here is a link to the [FAIR Data assessment tool](https://ardc.edu.au/resources/
 ```
 Adding a simple README with this sort of information can quickly make your data more [FAIR](https://www.go-fair.org/fair-principles/){target=_blank}.
     
-??? Note "setting file type"
+??? Note "Setting file type"
 
     Make sure you save this as a plain text file (`.txt`), other file formats (e.g. `.docx`) may not be rendered in the Discovery Environment editor.
 
@@ -106,13 +109,13 @@ Adding a simple README with this sort of information can quickly make your data 
     
     **D**  Fixable, Automated, Intersectional, Reducible
 
-    ??? Answer
+    ??? Success "Answer"
 
-        The correct answer is **C**
+        The correct answer is **C**.
 
 ??? Question "**True or False** is FAIR data is the same as Open data?"
 
-    ??? Answer
+    ??? Success "Answer"
     
         **False.** Open data must be free for use and distribution by anyone, whereas data can be limited in access while still being FAIR.
         
@@ -129,7 +132,7 @@ Adding a simple README with this sort of information can quickly make your data 
     
     **D**  It happens on a continuum, not a binary FAIR/not FAIR
 
-    ??? Answer
+    ??? Success "Answer"
 
         The correct answer is **A** Making your data FAIR **can** vary widely by discipline. 
         
@@ -137,7 +140,7 @@ Adding a simple README with this sort of information can quickly make your data 
 
 ??? Question "**True or False** is adding a README file a quick way to make your data more FAIR?"
 
-    ??? Answer
+    ??? Success "Answer"
 
         **True**, a README can provide quick access to metadata and is easily discovered within a given directory.
 
@@ -155,4 +158,4 @@ Adding a simple README with this sort of information can quickly make your data 
   
 ------------------------------------------------------------------------
 
-[Learning Center Home](http://learning.cyverse.org/)
+[:material-rocket: Learning Center Home](http://learning.cyverse.org/)

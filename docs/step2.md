@@ -1,6 +1,6 @@
 # CyVerse Background
 
-??? tip "Learning Objectives"
+!!! tip "Learning Objectives"
 
     - Know the background of the CyVerse project
     - Understand the basic capabilities of the CyVerse platform
@@ -29,7 +29,7 @@ questions.
 
 ??? Question "What is cyberinfrastructure?"
 
-    ??? answer
+    ??? success "Answer"
         
         Cyberinfrastructure is more than just an online computing platform.
         It's the combination of computing and data management tools along with training and support. 
@@ -39,15 +39,15 @@ questions.
 
     **True or False**
 
-    ??? Answer
+    ??? success "Answer"
         
-        FALSE. There are some tools and services where you can use a command line interface if you desire, 
+        **FALSE**. There are some tools and services where you can use a command line interface if you desire, 
         but most tools and services don't require you to use any command line interface.
 
 ??? Question "How does CyVerse USA differ from other CyVerse installations?"
 
 
-    ??? Answer
+    ??? success "Answer"
         
         CyVerse US is the original and main CyVerse platform, the one you will visit if you are using any platform served by cyverse.org. 
         CyVerse US generally has the broadest set of tools and services. 
@@ -76,4 +76,4 @@ questions.
   
 ------------------------------------------------------------------------
 
-[Learning Center Home](http://learning.cyverse.org/)
+[:material-rocket: Learning Center Home](http://learning.cyverse.org/)

@@ -49,14 +49,13 @@ following services*
 |iCommands | 3rd party software for upload/download to Data Store | [Download Linux, Mac OS X](https://learning.cyverse.org/ds/icommands/){target=_blank} |
 | gocommands | 3rd party software for upload/download to Data Store | [Download Linux, Mac OS X](https://github.com/cyverse/gocommands){target=_blank} |
 
-
 ### Platform(s)
 
 *We will use the following CyVerse platform(s):*
 
 | Platform | Interface | Link  | Platform Tour |
 |----------|-----------|-------|---------------|
-| [![DS](assets/data_store/datastore-icon.png){width="10"}](https://de.cyverse.org/data){target=_blank} [Data Store](https://de.cyverse.org/data){target=_blank} | GUI & CLI | [Data Store](https://cyverse.org/data-store){target=_blank} | [Data Store Guide]() |              
+| [![DS](assets/de/menu_items/dataIcon.png){width="20"}](https://de.cyverse.org/data){target=_blank} [Data Store](https://de.cyverse.org/data){target=_blank} | GUI & CLI | [Data Store](https://cyverse.org/data-store){target=_blank} | [Data Store Guide]() |              
 | [![DE](assets/de/logos/deIcon.png){width="20"}](https://de.cyverse.org/data){target=_blank} [Discovery Environment](https://de.cyverse.org/de){target=_blank} | GUI | [DE](https://cyverse.org/discovery-environment) | [DE Guide](){target=_blank} |         
 
 ### Application(s) used
@@ -68,19 +67,11 @@ following services*
 | Muscle | 3.8.31 | [Multiple Sequence Alignment](https://www.ebi.ac.uk/Tools/msa/muscle/){target=_blank} | <a href="https://de.cyverse.org/apps/de/9b41c9e4-5031-4a49-b1cb-c471335df16e/launch" target="_blank"><img src="https://img.shields.io/badge/Muscle-3.8.31-lightblue?style=plastic"></a> | [MUSCLE Manual](https://drive5.com/muscle/manual/){target=_blank}        
 | RStudio Verse | Latest | [Rocker-Project RStudio](https://rocker-project.org/images){target=_blank} | <a href="https://de.cyverse.org/apps/de/48b6e7ae-8b64-11ec-92dc-008cfa5ae621/launch" target="_blank"><img src="https://img.shields.io/badge/Verse-latest-blue?style=plastic&logo=rstudio"></a> | [CyVerse Docker Image](https://https://github.com/cyverse-vice/rstudio-verse)
 
-??? Tip
- 
-    **See other versions of this documentation (CyVerse UK and CyVerse Austria)**
-    In the lower-left hand side of the screen, change the version of this
-    documentation from cyverse-us to one of the other documentation sets
-    developed for this online guide (*cyverse-uk* or *cyverse-at*) to see
-    specifics for those installations.
-
 -----------------------------------------------------------------------
 
 **Funding and Citations:**
 
-CyVerse is funded entirely by the National Science Foundation [![NSF](assets/nsf.png){width="25"}](https://nsf.gov){target=_blank} under Award Numbers:
+CyVerse is funded by the Arizona Board of Regents the National Science Foundation [![NSF](assets/nsf.png){width="25"}](https://nsf.gov){target=_blank} under Award Numbers:
 
 [![NSF-0735191](https://img.shields.io/badge/NSF-0735191-blue.svg)](https://www.nsf.gov/awardsearch/showAward?AWD_ID=0735191){target=_blank}  [![NSF-1265383](https://img.shields.io/badge/NSF-1265383-blue.svg)](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1265383){target=_blank}  [![NSF-1743442](https://img.shields.io/badge/NSF-1743442-blue.svg)](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1743442){target=_blank}
 
@@ -100,4 +91,4 @@ Please cite CyVerse appropriately when you make use of our resources, see [CyVer
   
 ------------------------------------------------------------------------
 
-[Learning Center Home](http://learning.cyverse.org/)
+[:material-rocket: Learning Center Home](http://learning.cyverse.org/)

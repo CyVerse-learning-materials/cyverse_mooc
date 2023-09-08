@@ -1,6 +1,16 @@
+[de]: assets/de/logos/deIcon.svg
+[home]: assets/de/menu_items/homeIcon.svg
+[data]: assets/de/menu_items/dataIcon.svg
+[apps]: assets/de/menu_items/appsIcon.svg
+[analysis]: assets/de/menu_items/analysisIcon.svg
+[shell]: assets/de/menu_items/webshellIcon.svg
+[team]: assets/de/menu_items/teamsIcon.svg
+[bank]: assets/de/menu_items/bank.svg
+[help]: assets/de/menu_items/helpIcon.svg
+
 # Tour of the Discovery Environment
 
-??? tip "Learning Objectives"
+!!! tip "Learning Objectives"
     
     - Sign up and log in to the Discovery Environment
     - Learn about the major menu items
@@ -14,9 +24,13 @@ items and learn what you can do in each menu. Lastly, you will create a
 folder in your home directory for your data and analyses which you can
 use for subsequent modules.
 
+---
+
 > <div class="video-container">
 > <iframe width="560" height="315" src="https://www.youtube.com/embed/jZihE2QuBrw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 > </div>
+
+---
 
 ## Self-guided Discovery Environment Tour
 
@@ -31,36 +45,21 @@ use for subsequent modules.
 
 3.  On the left-hand sidebar, click on the following to see what is available:
 
-[home]: assets/de/menu_items/homeIcon.svg
-[data]: assets/de/menu_items/dataIcon.svg
-[apps]: assets/de/menu_items/appsIcon.svg
-[analysis]: assets/de/menu_items/analysisIcon.svg
-[shell]: assets/de/menu_items/webshellIcon.svg
-[team]: assets/de/menu_items/teamsIcon.svg
-[bank]: assets/de/menu_items/bank.svg
-[help]: assets/de/menu_items/helpIcon.svg
+    [![DE Menu](assets/de/navigation.png){width="150", align=left}](https://de.cyverse.org/data){target=_blank} 
 
-    ![][home]{width=20} **Home** - Dashboard
+    - ![home]{width=20} **Home** - Dashboard
+    - ![data]{width=20} **Data** - Interface to the Data Store, including your personal and shared data
+    - ![apps]{width=20} **Apps** - Applications (including VICE interactive applications)
+    - ![analysis]{width=20} **Analyses** - Status and history of analysis jobs
+    - ![shell]{width=20} **Cloud shell** - Quicklaunch of a Linux shell
+    - ![team]{width=20} **Teams** - Organize collaborators and sharing
+    - ![bank]{width=20} **Collections** - Public collections of applications and data
+    - ![help]{width=20} **Help** - Help and support
 
-    ![][data]{width=25} **Data** - Interface to the Data Store, including your personal and shared data
-
-    ![][apps]{width=20} **Apps** - Applications (including VICE interactive applications)
-
-    ![][analysis]{width=20} **Analyses** - Status and history of analysis jobs
-
-    ![][shell]{width=20} **Cloud shell** - Quicklaunch of a Linux shell
-
-    ![][team]{width=20} **Teams** - Organize collaborators and sharing
-
-    ![][bank]{width=20} **Collections** - Public collections of applications and data
-
-    ![][help]{width=20} **Help** - Help and support
-
-    [![DE Menu](assets/de/navigation.png){width="150"}](https://de.cyverse.org/data){target=_blank} 
     
 ??? Tip
     
-    You can expand the navigation side bar for a detailed description of views in the Discovery Environment by clicking on the :material-bars:
+    You can expand the navigation side bar for a detailed description of views in the Discovery Environment by clicking on the :fontawesome-solid-bars: button.
 
 4.  Go back to the Data menu and familiarize with the options:
 
@@ -85,7 +84,7 @@ use for subsequent modules.
 
 | Output | Description |
 |--------|-------------|
-| `/tutorial folder/` (folder) `tutorial_folder/raw_data` (folder) `tutorial_folder/results` (folder) | - We will cover in detail how to create and share folders in the next steps of the course. - The will contain example data from future steps in the tutorial |
+| `/tutorial folder/` <br> `tutorial_folder/raw_data` <br> `tutorial_folder/results` | - We will cover in detail how to create and share folders in the next steps of the course. <br> - These will contain example data from future steps in the tutorial |
 
 ------------------------------------------------------------------------
 
@@ -101,7 +100,7 @@ use for subsequent modules.
 
     **D.** Videos
 
-    ??? Answer
+    ??? Success "Answer"
         
         **Correct answer is D.**
 
@@ -118,17 +117,9 @@ use for subsequent modules.
 
     **D.**  Launch environments like Jupyter and Rstudio
 
-    ??? Answer
+    ??? Success "Answer"
         
-        **Correct answer is A, B, D.**
-
-??? Tip
- 
-    **See other versions of this documentation (CyVerse UK and CyVerse Austria)**
-    In the lower-left hand side of the screen, change the version of this
-    documentation from cyverse-us to one of the other documentation sets
-    developed for this online guide (*cyverse-uk* or *cyverse-at*) to see
-    specifics for those installations.
+        **Correct answer are A, B, D.**
 
 -----------------------------------------------------------------------
 
@@ -140,8 +131,8 @@ use for subsequent modules.
     click the Intercom icon ![Intercom](assets/intercom.png){ width="25" } on the lower right-hand side of the page
   - Report an issue or submit a change:
     [Github Repo Link](https://github.com/cyverse-learning-materials/)
-  - Send feedback: <Tutorials@CyVerse.org>
+  - Send feedback: <tutorials@CyVerse.org>
   
 ------------------------------------------------------------------------
 
-[Learning Center Home](http://learning.cyverse.org/)
+[:material-rocket: Learning Center Home](http://learning.cyverse.org/)

@@ -1,7 +1,7 @@
 # Data Management II
 
 
-??? Tip "Learning Objectives"
+!!! Tip "Learning Objectives"
 
     - Properly configure Cyberduck
     - Understand how Cyberduck works
@@ -9,10 +9,11 @@
 
 **Description:** In this module, we discuss how you can upload and download your dataset(s) in the Discovery Environment. This is done using Cyberduck, a 3rd party software that connects your local computer to the Data Store to enable drag-and-drop download and upload of data.
 
+---
 <div class="video-container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/RjvoF3i7zNE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 </div>
+---
 
 ## Input Data
 
@@ -90,9 +91,9 @@ You should now be connected to the Data Store and viewing the contents of your h
 
     **D** To view apps and tools on the Discovery Environment
 
-    ??? Answer
+    ??? Success "Answer"
         
-        Correst answer is **B**
+        Correst answer is **B**.
 
 
 ??? Question "Which of these will you need to configure and access the datastore using Cyberduck? Select all that apply:"
@@ -105,9 +106,9 @@ You should now be connected to the Data Store and viewing the contents of your h
 
     **D**  Discovery Environment
 
-    ??? Answer
+    ??? Success "Answer"
 
-        Correct answer is **B & C**
+        Correct answer are **B & C**.
 
         Download the [CyVerse Cyberduck connection profile](https://cyverse.atlassian.net/wiki/download/attachments/241869843/CyVerseDataStore.cyberduckprofile?version=1&modificationDate=1568640173000&cacheVersion=1&api=v2) 
 
@@ -125,4 +126,4 @@ You should now be connected to the Data Store and viewing the contents of your h
   
 ------------------------------------------------------------------------
 
-[Learning Center Home](http://learning.cyverse.org/)
+[:material-rocket: Learning Center Home](http://learning.cyverse.org/)

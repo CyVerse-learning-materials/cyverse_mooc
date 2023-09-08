@@ -10,7 +10,7 @@ site_url: https://CyVerse-learning-materials.io/cyverse_mooc/
 edit_uri: edit/mkdocs-usa/docs
 
 # Copyright
-copyright: 'Copyright &copy; 2022 CyVerse USA'
+copyright: 'Copyright &copy; 2023 CyVerse USA'
 
 # Navigation Page
 
@@ -36,10 +36,11 @@ theme:
 # setting features for the navigation tab
   features:
     - navigation.instant
-    - navigation.expand
+      #- navigation.expand
     - navigation.tracking
     - navigation.sections
-    - navigation.expand
+    - navigation.indexes
+    - toc.follow
   # Default values, taken from mkdocs_theme.yml
   language: en
   palette: 
@@ -57,19 +58,6 @@ theme:
   favicon: assets/favicon.png
   icon:
     logo: material/rocket
-    admonition:
-      note: fontawesome/solid/sticky-note
-      abstract: fontawesome/solid/book
-      info: fontawesome/solid/info-circle
-      tip: fontawesome/solid/bullhorn
-      success: fontawesome/solid/check
-      question: fontawesome/solid/question-circle
-      warning: fontawesome/solid/exclamation-triangle
-      failure: fontawesome/solid/bomb
-      danger: fontawesome/solid/skull
-      bug: fontawesome/solid/robot
-      example: fontawesome/solid/flask
-      quote: fontawesome/solid/quote-left
 
 # Options
 extra:
@@ -102,6 +90,7 @@ markdown_extensions:
   - md_in_html
   - toc:
       permalink: true
+      title: On this page
   - pymdownx.arithmatex:
       generic: true
   - pymdownx.betterem:
@@ -121,7 +110,11 @@ markdown_extensions:
       repo: mkdocs-material
   - pymdownx.mark
   - pymdownx.smartsymbols
-  - pymdownx.superfences
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
   - pymdownx.tabbed
   - pymdownx.tasklist:
       custom_checkbox: true

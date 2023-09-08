@@ -1,6 +1,6 @@
 # Analysis with the Discovery Environment
 
-??? tip "Learning Objectives"
+!!! tip "Learning Objectives"
 
     - Understand basic analysis capabilities of the Discovery Environment
 
@@ -63,7 +63,7 @@ In this module, we introduce executable analyses in the CyVerse Discovery Enviro
 | Location | File | Example |
 |----------|------|---------|
 | `muscle_output/`  | logs folder | [View the example `muscle_output/`](https://datacommons.cyverse.org/browse/iplant/home/shared/cyverse_training/cyverse_mooc/tutorial_folder/results/muscle_output){target=_blank} |
-| `clstalw.aln` | |
+| `clstalw.aln` | `.aln` are multi-alignment files |
 | `fasta.aln` | | 
 | `phylip_interleaved.aln` | | 
 | `phylip_sequential.aln` | |
@@ -82,9 +82,9 @@ In this module, we introduce executable analyses in the CyVerse Discovery Enviro
 
     **D** They have a startup time in the minutes range.
 
-    ??? Answer
+    ??? Success "Answer"
 
-        Correct answer is **A & B**
+        Correct answer are **A** & **B**.
 
 ??? Question "Which of the following are incorrect about Docker containers?"
     
@@ -96,9 +96,9 @@ In this module, we introduce executable analyses in the CyVerse Discovery Enviro
 
     **D** Docker containers are running instances of a Docker image.
 
-    ??? Answer
+    ??? Success "Answer"
     
-        The incorrect statement is **B**
+        The incorrect statement is **B**.
 
 -----------------------------------------------------------------------
 
@@ -114,4 +114,4 @@ In this module, we introduce executable analyses in the CyVerse Discovery Enviro
   
 ------------------------------------------------------------------------
 
-[Learning Center Home](http://learning.cyverse.org/)
+[:material-rocket: Learning Center Home](http://learning.cyverse.org/)
